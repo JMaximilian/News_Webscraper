@@ -1,0 +1,11 @@
+cc,key
+1,Euroclear
+2,Euroclear
+1,EUREX
+2,EUREX
+1,LCH SA
+2,LCH SA
+1,LCH Ltd
+2,LCH Ltd
+1,ICE Clear Europe
+2,ICE Clear Europe
