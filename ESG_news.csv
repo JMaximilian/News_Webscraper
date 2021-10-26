@@ -1,0 +1,942 @@
+Searchword,API,URL,Title,Summary,Article,Title_Sentiment,Title_Positive,Title_Neutral,Title_Negative,Article_Sentiment,Article_Positive,Article_Neutral,Article_Negative,Verified,Language,NER,Date,Source,Topics
+ESG,Google API,https://www.ft.com/content/f29a6f96-3f97-4df3-a217-3e7c6d3a3f9e,"Poor ESG standards hold back funds’ ability to do good, study suggests","As a result, sustainable funds look like and impact the world much like “vanilla funds”, the report noted.
+“Sustainable funds perform a little less badly, but the net impact is still bad,” it said.
+The problem, according to Util’s data, is that sustainable funds do not have much positive impact on an absolute basis.
+However, the relative strength is nothing for ESG funds to ride high on, Util wrote.
+ESG funds on average have net negative impacts on five environmental goals, including clean water and sanitation, as well as protecting life on land and in the water.","Environmental, social and governance funds do little to drive change, largely because they rely on ESG rankings and other data that set the bar for good corporate citizenship “abysmally low”, research suggests.
+
+Most sustainability funds, and the data underpinning them, focus on relative performance of metrics based on self-reported data, rather than on the absolute impact of their business activities on social or environmental goals, according to a report published last week from Util, a London-based fintech, that crunches publicly disclosed data to measure impact on sustainability goals.
+
+As a result, sustainable funds look like and impact the world much like “vanilla funds”, the report noted. “Sustainable funds perform a little less badly, but the net impact is still bad,” it said.
+
+The report is one of a string of recent studies to claim that ESG product providers focus more on looking the part than on effecting meaningful change.
+
+This article was previously published by Ignites, a title owned by the FT Group.
+
+However, some managers of ESG or sustainable funds argue that it is difficult to translate data and strategies into tangible outcomes that investors can appreciate.
+
+“Our profession doesn’t do a very good job of working through ambiguity,” said Ethan Powell, chief executive of Impact Shares, which teams up with organisations including the NAACP and YWCA to offer social-outcome-oriented ETFs.
+
+A lot of managers are not “intellectually honest with themselves” about the impact that they are capable of delivering, he added. Instead of dismissing ESG investing outright, asset managers and investors should assess the appropriate level of social and environmental impact for each dollar invested “and have a conversation about how they want their capital to influence the trajectory of the world around them,” he said.
+
+The problem, according to Util’s data, is that sustainable funds do not have much positive impact on an absolute basis.
+
+The average sustainable fund scored 3 on a scale of negative 100 to 100 on performance against the United Nations’ 17 Sustainable Development Goals, which were established in 2015.
+
+The goals include targets for climate action, responsible consumption, gender equality and ending hunger and poverty.
+
+Non-sustainable funds, meanwhile, received an average score of 1 out of 100.
+
+However, the relative strength is nothing for ESG funds to ride high on, Util wrote. ESG funds on average have net negative impacts on five environmental goals, including clean water and sanitation, as well as protecting life on land and in the water.
+
+“No matter your strategy, it’s likely your capital is contributing to environmental degradation,” the report said.
+
+An increase in impact-focused data — which Util seeks to provide — can help managers better assess the impact that their investments have on the environment, the organisation claimed.
+
+Other data advances may also make it easier for companies to address impacts that are material to their business, said Jennifer Grancio, chief executive of Engine No. 1, an activist hedge fund and ETF sponsor.
+
+“If you go back 10 years, the data was very patchy,” she said last week during her keynote address at the Morningstar Investment Conference. However, more recently, “there’s been huge progress”, she added.
+
+Though ESG ratings may be “simplistic”, her company uses the raw data from providers as part of its core financial analysis of companies.
+
+But looking at data alone does not indicate that a fund is impactful, said Impact Shares’ Powell. “Intent matters,” he said.
+
+Engine No. 1, for example, focuses on the long-term changes that will make a difference, even if it means a short-term financial impact, Grancio said.
+
+The investment industry had let itself “be reduced down to the quarterly income statement analysis” as the primary way of assessing risk and reward, she said.
+
+“The impacts for different companies do have a material impact over time,” she added. “Continually making the case for long-term benefits can effect change.”
+
+*Ignites is a news service published by FT Specialist for professionals working in the asset management industry. It covers everything from new product launches to regulations and industry trends. Trials and subscriptions are available at ignites.com.
+
+
+
+",negative,0.03,0.0,0.97,mixed,0.11,0.08,0.81,True,English,"['ESG', 'Util', 'Ignites', 'FT Group', 'Impact Shares', 'NAACP', 'YWCA', 'ESG', 'Util', 'United Nations', 'ESG', 'ESG', 'Util', 'Engine No. 1,', 'ESG', 'Impact Shares', 'FT Specialist', 'ignites.com']",2021-09-29,ft.com,"['Poor ESG standards', 'funds’ ability', 'good', 'study', 'Poor ESG standards', 'funds’ ability', 'good', 'study', 'Poor ESG standards', 'funds’ ability', 'good', 'study', 'United Nations’ 17 Sustainable Development Goals', 'quarterly income statement analysis', 'core financial analysis', 'new product launches', 'good corporate citizenship', 'Morningstar Investment Conference', 'activist hedge fund', 'short-term financial impact', 'five environmental goals', 'asset management industry', 'Most sustainability funds', 'average sustainable fund', 'net negative impacts', 'Other data advances', 'Impact Shares’ Powell', 'ESG product providers', 'sustainability goals', 'investment industry', 'sustainable funds', 'good job', 'Ethan Powell', 'average score', 'net impact', 'industry trends', 'environmental degradation', 'environmental impact', 'governance funds', 'vanilla funds', 'London-based fintech', 'recent studies', 'FT Group', 'tangible outcomes', 'chief executive', 'social-outcome-oriented ETFs', 'appropriate level', 'absolute basis', 'climate action', 'responsible consumption', 'gender equality', 'relative strength', 'ETF sponsor', 'keynote address', 'huge progress', 'long-term changes', 'primary way', 'long-term benefits', 'news service', 'FT Specialist', 'ESG funds', 'absolute impact', 'positive impact', 'material impact', 'ESG rankings', 'ESG ratings', 'asset managers', 'self-reported data', 'impact-focused data', 'raw data', 'relative performance', 'business activities', 'clean water', 'Jennifer Grancio', 'Engine No.', 'meaningful change', 'different companies', 'bar', 'research', 'metrics', 'Util', 'result', 'world', 'string', 'part', 'article', 'Ignites', 'title', 'strategies', 'investors', 'profession', 'ambiguity', 'organisations', 'NAACP', 'YWCA', 'lot', 'dollar', 'conversation', 'capital', 'trajectory', 'problem', 'scale', 'targets', 'hunger', 'poverty', 'sanitation', 'life', 'land', 'strategy', 'increase', 'investments', 'company', 'example', 'difference', 'risk', 'reward', 'time', 'case', 'effect', 'everything', 'regulations', 'Trials', 'subscriptions']"
+ESG,Google API,https://www.forbes.com/sites/bobeccles/2021/09/29/three-principles-for-esg-investing-from-the-uk-financial-conduct-authority/,Three Principles For ESG Investing From The U.K. Financial Conduct Authority,"Fixler and I made is that since there is so little regulation regarding ESG investment products, it is important that asset managers manufacturing and selling...","Fixler and I made is that since there is so little regulation regarding ESG investment products, it is important that asset managers manufacturing and selling...",neutral,0.05,0.93,0.02,neutral,0.05,0.89,0.06,True,English,['Financial Conduct Authority'],2021-09-28,forbes.com,"['The U.K. Financial Conduct Authority', 'Three Principles', 'ESG Investing', 'The U.K. Financial Conduct Authority', 'Three Principles', 'ESG Investing', 'The U.K. Financial Conduct Authority', 'Three Principles', 'ESG Investing', 'ESG investment products', 'little regulation', 'asset managers', 'Fixler']"
+ESG,Google API,https://www.environmentalleader.com/2021/10/europe-leads-the-world-in-esg-investing-finds-rbc-gam-survey/,"Europe Leads the World in ESG Investing, Finds RBC GAM Survey","Each year, RBC Global Asset Management conducts a Responsible Investment Survey focusing on environmental, social, governance (ESG) and impact issues and opinions.
+According to the results, Europe continues to lead the world in ESG adoption, with 96% of European respondents saying they use ESG in their decision making.
+Overall, adoption of ESG principles remains at peak levels: 72% of global investors integrate ESG in their investment approach and decision-making.
+ESG investing is a type of responsible investing that looks to invest only in companies that have been assessed to score highly on environmental and social responsibility scales, as determined by third-parties.
+Other forms of responsible investing include:","Each year, RBC Global Asset Management conducts a Responsible Investment Survey focusing on environmental, social, governance (ESG) and impact issues and opinions. In 2021, the company surveyed more than 800 investment-sector participants from around the world, with 45% representing organizations with $1 billion or more in assets.
+
+According to the results, Europe continues to lead the world in ESG adoption, with 96% of European respondents saying they use ESG in their decision making. Canada ranked second at 81% — an eight percent decline from last year. Asia ranked third at 75% — a four percent increase from last year. The US trails the pack, as it has in the past, remaining in the 64% to 66% range for three consecutive years.
+
+Overall, adoption of ESG principles remains at peak levels: 72% of global investors integrate ESG in their investment approach and decision-making. The investment community appears to have confidence in the financial viability of ESG: 83% of global investors said ESGintegrated portfolios are likely to do as well or better than non-ESG-integrated portfolios, about the same as last year.
+
+The top ESG issue area cited by global investors was anti-corruption, followed by cyber security in second place and climate change in third place.
+
+About one third of investors reported increasing their emphasis on ESG due to the coronavirus pandemic.
+
+ESG investing is a type of responsible investing that looks to invest only in companies that have been assessed to score highly on environmental and social responsibility scales, as determined by third-parties. Criteria include:
+
+Carbon footprint.
+
+Supply chain sustainability.
+
+Racial diversity.
+
+LGBTQ+ equality.
+
+Executive pay.
+
+Leadership responsiveness to shareholders.
+
+Other forms of responsible investing include:",neutral,0.05,0.95,0.0,mixed,0.24,0.26,0.5,True,English,"['RBC GAM', 'RBC Global Asset Management', 'ESG']",2021-10-14,environmentalleader.com,"['RBC GAM Survey', 'ESG Investing', 'Europe', 'World', 'RBC GAM Survey', 'ESG Investing', 'Europe', 'World', 'RBC GAM Survey', 'ESG Investing', 'Europe', 'World', 'RBC Global Asset Management', 'top ESG issue area', 'eight percent decline', 'four percent increase', 'three consecutive years', 'social responsibility scales', 'Supply chain sustainability', 'environmental, social, governance', 'Responsible Investment Survey', 'investment approach', 'investment community', 'responsible investing', 'global investors', 'impact issues', '800 investment-sector participants', 'European respondents', 'decision making', 'last year', 'The US', '64% to 66% range', 'peak levels', 'financial viability', 'ESGintegrated portfolios', 'ESG-integrated portfolios', 'cyber security', 'second place', 'climate change', 'third place', 'one third', 'coronavirus pandemic', 'Carbon footprint', 'Racial diversity', 'LGBTQ+ equality', 'Executive pay', 'Leadership responsiveness', 'Other forms', 'ESG principles', 'ESG investing', 'ESG adoption', 'opinions', 'company', 'world', 'organizations', 'assets', 'results', 'Canada', 'Asia', 'pack', 'past', 'decision-making', 'confidence', 'anti-corruption', 'emphasis', 'type', 'companies', 'third-parties', 'Criteria', 'shareholders']"
+ESG,Google API,https://www.advisorperspectives.com/articles/2021/10/11/esg-funds-fail-a-big-test,ESG Funds Fail a Big Test - Articles,"New research shows that mutual funds and ETFs with an environmental, social and governance (ESG) mandate failed to live up to their promises.","New research shows that mutual funds and ETFs with an environmental, social and governance (ESG) mandate failed to live up to their promises.",negative,0.0,0.0,1.0,negative,0.0,0.01,0.99,True,English,['ESG'],2021-10-12,advisorperspectives.com,"['ESG Funds', 'Big Test', 'Articles', 'ESG Funds', 'Big Test', 'Articles', 'ESG Funds', 'Big Test', 'Articles', 'New research', 'mutual funds', 'ESG) mandate', 'ETFs', 'social', 'governance', 'promises']"
+ESG,Google API,https://www.omfif.org/2021/10/over-half-of-low-carbon-esg-funds-are-exaggerating-claims/,Over half of 'low-carbon' ESG funds are exaggerating claims,"Industry group Global Sustainable Investment Alliance estimates that global investment in sustainable assets rose to $35.3tn in 2020 from $22.8tn in 2016.
+In fact, there is evidence that the difficulty of securing the transition to a low-carbon economy may perversely be increased by ESG funds.
+Fund managers struggling in the ESG data fog place heavy reliance on ESG ratings providers.
+In that well-worn but apt cliché, few ESG funds really do what they say on the tin.
+Clearly investors in ESG funds need to bring a more sceptical eye to the contents of ESG portfolios and to the voting records of their fund managers.","Investors around the world have an insatiable urge to invest in environmental, social and governance-orientated funds. Consider the numbers. Industry group Global Sustainable Investment Alliance estimates that global investment in sustainable assets rose to $35.3tn in 2020 from $22.8tn in 2016. That is an astonishing 35.9% of total global assets under management.
+
+Such funds pursue strategies ranging from integrating ESG factors into financial analysis to corporate engagement, with exclusionary or positive screening in between. Yet whether they will deliver on the ESG promise is another matter.
+
+Fund management groups have commercial imperatives as well as fiduciary obligations. That can cause them to overstate their sustainability credentials – a practice known as greenwashing.
+
+Tariq Fancy, former chief investment officer for sustainable investment at BlackRock, the world’s biggest fund management group, has publicly denounced these funds as a marketing gimmick, noting that ESG products carry higher fees than non-ESG funds. He now believes that his efforts at BlackRock led the world into a dangerous mirage and that claims that ESG investing will deliver higher returns are dubious.
+
+At the same time the whole area is beset by methodological and data problems. The International Organization of Securities Commissions recently complained that ESG rating and data providers are largely unregulated, lack transparency about their methods, offer uneven coverage and harbour potential conflicts of interest.
+
+And at the OMFIF Sustainable Policy Institute symposium, ‘Revolutionising finance for net zero’, Ignazio Visco, governor of the Banca d’Italia, pointed out that there are neither widely accepted rules for ESG data disclosure by individual firms nor agreed auditing standards to verify the reported data. He pointed to intrinsic difficulties in deciding which indicators are relevant in assigning an ESG score, especially when compared to financial aggregates. He also highlighted estimates suggesting that 55% of funds labelled ‘low carbon’, ‘fossil-fuel free’ and ‘green energy’ have exaggerated their claims.
+
+At company level there is extraordinary fragmentation in reporting standards on ESG issues. While there are initiatives to move towards a more coherent international framework – notably the establishment of the International Sustainability Standards Board – progress is painfully slow.
+
+This matters because the enforced obsolescence of the global carbon-intensive capital stock that will be required to meet the emissions targets of the Paris agreement – and potentially the COP26 summit in November – will inflict huge damage on many corporate balance sheets and revenue accounts.
+
+A Harvard Business School study has looked at the potential costs of bringing environmental externalities back into company accounts. Its Impact-Weighted Accounts Project found that of 1,694 companies covered, 15% would lose all profitability if external impact costs were included, while 32% would see profitability reduced by 25% or more.
+
+Most companies do not report such information about the cost of shifting their business models onto a more sustainable basis. Few have made explicit commitments to net-zero emissions. A survey of 400 directors by consultant Ernst & Young found that more than half of directors surveyed said they were considering ESG issues only because compliance, disclosure obligations and shareholder pressure compelled them to do so. Small wonder few believe decarbonisation is efficiently priced in global markets.
+
+In fact, there is evidence that the difficulty of securing the transition to a low-carbon economy may perversely be increased by ESG funds. Researchers at Edhec, a French business school, have found that passive exchange-traded funds tracking low carbon, climate change or Paris-aligned indices allocate little of their money to the greenest companies and habitually increase the weighting of companies with a deteriorating environmental performance. They also found that these ETFs were starving sectors that needed to make the biggest investment in decarbonisation.
+
+Fund managers struggling in the ESG data fog place heavy reliance on ESG ratings providers. Yet the ratings are based on widely different methodologies which are, in the end, subjective. This results in weird outcomes. For example, rating firm MSCI currently assigns ExxonMobil a BBB rating (high average) while drug-maker Moderna has a BB rating (between average and high average). So a notorious climate change denier is rated higher than a global leader in providing vaccines for Covid-19.
+
+In that well-worn but apt cliché, few ESG funds really do what they say on the tin. But they have been a fantastic business opportunity for the big fund management groups.
+
+Clearly investors in ESG funds need to bring a more sceptical eye to the contents of ESG portfolios and to the voting records of their fund managers. Investment advisers and journalists should likewise bring a critical intelligence to bear on the sector. As the quality of companies’ reporting on the sustainability of their business models improves over time, this will become easier.
+
+But the underlying assumption that institutional investors can play a key role in securing the transition to a low-carbon economy is highly questionable. Without a firm push by governments for more widespread adoption of carbon pricing, the greening of the global corporate sector will remain elusive.
+
+John Plender is a Financial Times Columnist and was Chairman of OMFIF from 2014-17.",negative,0.0,0.02,0.98,mixed,0.08,0.09,0.83,True,English,"['ESG', 'Global Sustainable Investment Alliance', 'ESG', 'BlackRock', 'BlackRock', 'ESG', 'International Organization of Securities Commissions', 'ESG', 'OMFIF', 'Banca d’Italia', 'ESG', 'ESG', 'International Sustainability Standards Board', 'Harvard Business School', 'Ernst & Young', 'Edhec', 'ESG', 'ESG', 'MSCI', 'ExxonMobil', 'Moderna', 'ESG', 'ESG']",2021-10-12,omfif.org,"[""low-carbon' ESG funds"", 'half', 'claims', ""low-carbon' ESG funds"", 'half', 'claims', ""low-carbon' ESG funds"", 'half', 'claims', 'OMFIF Sustainable Policy Institute symposium', 'A Harvard Business School study', 'many corporate balance sheets', 'global carbon-intensive capital stock', 'former chief investment officer', 'notorious climate change denier', 'big fund management groups', 'Global Sustainable Investment Alliance', 'International Sustainability Standards Board', 'biggest fund management group', 'French business school', 'The International Organization', 'coherent international framework', 'fantastic business opportunity', 'external impact costs', 'total global assets', 'Impact-Weighted Accounts Project', 'deteriorating environmental performance', 'passive exchange-traded funds', 'ESG data disclosure', 'ESG ratings providers', 'biggest investment', 'global investment', 'sustainable assets', 'business models', 'Industry group', 'corporate engagement', 'sustainable basis', 'Fund managers', 'global markets', 'global leader', 'auditing standards', 'reporting standards', 'Investment advisers', 'data providers', 'potential costs', 'disclosure obligations', 'environmental, social', 'sustainability credentials', 'revenue accounts', 'environmental externalities', 'company accounts', 'ESG factors', 'ESG promise', 'ESG products', 'ESG investing', 'ESG score', 'ESG issues', 'ESG portfolios', 'ESG funds', 'insatiable urge', 'financial analysis', 'positive screening', 'commercial imperatives', 'fiduciary obligations', 'Tariq Fancy', 'marketing gimmick', 'higher fees', 'dangerous mirage', 'higher returns', 'same time', 'data problems', 'Securities Commissions', 'uneven coverage', 'potential conflicts', 'Revolutionising finance', 'net zero', 'Ignazio Visco', 'Banca d', 'individual firms', 'intrinsic difficulties', 'financial aggregates', 'low carbon', 'green energy', 'company level', 'extraordinary fragmentation', 'emissions targets', 'Paris agreement', 'COP26 summit', 'huge damage', 'explicit commitments', 'net-zero emissions', 'consultant Ernst', 'shareholder pressure', 'Small wonder', 'low-carbon economy', 'Paris-aligned indices', 'heavy reliance', 'different methodologies', 'weird outcomes', 'rating firm', 'BBB rating', 'sceptical eye', 'voting records', 'critical intelligence', 'governance-orientated funds', 'Such funds', 'Most companies', 'greenest companies', 'high average', '1,694 companies', 'Investors', 'world', 'numbers', 'strategies', 'exclusionary', 'matter', 'practice', 'greenwashing', 'BlackRock', 'efforts', 'area', 'methodological', 'transparency', 'methods', 'interest', 'governor', 'Italia', 'rules', 'indicators', 'estimates', 'fossil', 'fuel', 'claims', 'initiatives', 'establishment', 'progress', 'obsolescence', 'November', 'profitability', 'information', 'survey', '400 directors', 'Young', 'half', 'compliance', 'decarbonisation', 'evidence', 'difficulty', 'transition', 'Researchers', 'Edhec', 'money', 'weighting', 'ETFs', 'sectors', 'end', 'example', 'MSCI', 'ExxonMobil', 'drug-maker', 'Moderna', 'vaccines', 'Covid', 'contents', 'journalists', 'quality']"
+ESG,Google API,https://www.mainebiz.biz/article/how-your-company-can-incorporate-the-esg-benchmark-into-daily-business,How your company can incorporate the 'ESG' benchmark into daily business,"To give you an idea of the momentum behind ESG, Armando Senra, Blackrock’s head of iShares Americas (the company’s ESG fund), recently told CNBC that ESG investments could top $1 trillion by 2030.
+Image Courtesy photo Tony ParadisoYet even the people involved in the “business” of ESG struggle to define it.
+The myriad rating agencies that “score” a company’s ESG rating are basically making it up as they go along.
+Unless you’re a public company, you can ignore the ratings agency chaos.
+With public companies, stockholders are a focal point as is the composition of the board of directors.","By Tony Paradiso
+
+Just the other day I was thinking there aren’t enough acronyms in the world. Luckily, another one is quickly gaining prominence in the lexicon: ESG.
+
+Many readers probably know what it stands for — Environmental, Social and Governance — but I suspect few understand exactly what it can mean for your organization, or how to successfully integrate it within your on-going strategy and culture.
+
+Don’t be alarmed. This column hopes to help you navigate this emerging landscape.
+
+To give you an idea of the momentum behind ESG, Armando Senra, Blackrock’s head of iShares Americas (the company’s ESG fund), recently told CNBC that ESG investments could top $1 trillion by 2030.
+
+Image Courtesy photo Tony Paradiso
+
+Yet even the people involved in the “business” of ESG struggle to define it. As with any new benchmark, no standards exist. The myriad rating agencies that “score” a company’s ESG rating are basically making it up as they go along. That will change in time, but for now, for most companies it comes down to a judgement call.
+
+The goal is not to generate an ESG rating for public relations purposes. Rather, it is to develop a plan to integrate it within your overall organization not only to improve your business, but the world around you.
+
+Unless you’re a public company, you can ignore the ratings agency chaos. And the reality is that you should never run your company based on other’s interpretation of what you as a business owner should be doing. What’s right for you with respect to ESG is totally dependent upon the unique characteristics of your business and culture.
+
+I think there is general consensus as to what ESG encompasses, so let’s start there.
+
+Environmental
+
+With the growing focus on climate change, this is arguably the most prominent of the ESG components. It can encompass myriad aspects of a company’s environmental impact. For most companies, it would include energy use, carbon footprint and resource utilization. But for others, very specific environmental criteria might become priorities. For a pharmaceutical company, the treatment of animals would be a critical factor. For agriculture, a major issue would be water usage.
+
+Social
+
+The social component doesn’t only pertain to how you treat your employees but all your company’s stakeholders. The challenge here is the breath of the stakeholder population. A narrow definition of a stakeholder includes employees, shareholders, the community, creditors, investors, customers and owners. However, under the broadest definition, it would be virtually everyone potentially affected by your business — suppliers, competitors, prospective employees, customers and even future generations.
+
+Governance
+
+Governance issues are greatly dependent upon whether your company is public or private. With public companies, stockholders are a focal point as is the composition of the board of directors. For private firms, transparency in accounting, risk management, and data privacy come into play.
+
+These lists represent only a subset of possible variables related to ESG. Still, they illustrate the unending number of permutations that can exist in attempting to formulate the right policies for your organization.",neutral,0.01,0.99,0.0,mixed,0.27,0.14,0.59,True,English,"['ESG', 'Blackrock', 'iShares Americas', 'CNBC', 'ESG', 'ESG', 'ESG', 'ESG']",2021-10-05,mainebiz.biz,"[""ESG' benchmark"", 'daily business', 'company', ""ESG' benchmark"", 'daily business', 'company', ""ESG' benchmark"", 'daily business', 'company', 'Image Courtesy photo', 'ratings agency chaos', 'public relations purposes', 'specific environmental criteria', 'myriad rating agencies', 'myriad aspects', 'public companies', 'Tony Paradiso', 'enough acronyms', 'Many readers', 'going strategy', 'emerging landscape', 'Armando Senra', 'iShares Americas', 'new benchmark', 'most companies', 'judgement call', 'unique characteristics', 'general consensus', 'growing focus', 'climate change', 'environmental impact', 'energy use', 'carbon footprint', 'resource utilization', 'critical factor', 'major issue', 'water usage', 'narrow definition', 'broadest definition', 'future generations', 'focal point', 'private firms', 'risk management', 'data privacy', 'possible variables', 'unending number', 'right policies', 'ESG rating', 'public company', 'stakeholder population', 'ESG fund', 'ESG investments', 'ESG components', 'overall organization', 'social component', 'prospective employees', 'Governance issues', 'pharmaceutical company', 'business owner', 'world', 'prominence', 'lexicon', 'culture', 'column', 'idea', 'momentum', 'Blackrock', 'head', 'CNBC', 'people', 'standards', 'time', 'goal', 'plan', 'reality', 'other', 'interpretation', 'respect', 'priorities', 'treatment', 'animals', 'stakeholders', 'challenge', 'breath', 'shareholders', 'community', 'creditors', 'investors', 'customers', 'owners', 'everyone', 'suppliers', 'competitors', 'stockholders', 'composition', 'board', 'directors', 'transparency', 'accounting', 'play', 'lists', 'subset', 'permutations']"
+ESG,Google API,https://www.ft.com/content/f13eb4ac-db7d-4a26-81ed-0c952751b259,Investor scepticism on ESG points to a maturing market,"Become an FT subscriber to read:Leverage our market expertiseExpert insights, analysis and smart data help you cut through the noise to spot trends, risks and opportunities.
+Join over 300,000 Finance professionals who already subscribe to the FT.","Become an FT subscriber to read:
+
+Leverage our market expertise
+
+Expert insights, analysis and smart data help you cut through the noise to spot trends, risks and opportunities.
+
+Join over 300,000 Finance professionals who already subscribe to the FT.",neutral,0.15,0.72,0.13,neutral,0.13,0.79,0.08,True,English,"['ESG', 'FT', 'FT']",2021-10-19,ft.com,"['Investor scepticism', 'maturing market', 'ESG', 'Investor scepticism', 'maturing market', 'ESG', 'Investor scepticism', 'maturing market', 'ESG', 'market expertise', 'Expert insights', 'smart data', '300,000 Finance professionals', 'FT subscriber', 'analysis', 'noise', 'trends', 'risks', 'opportunities']"
+ESG,Google API,https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/dol-proposes-rule-to-remove-barriers-to-esg-funds-in-retirement-plans.aspx,DOL Proposes Rule to Support ESG Funds in Retirement Plans,"A separate Trump administration final rule would have barred retirement plan fiduciaries from casting corporate-shareholder proxy votes in favor of social or political positions that don't advance the financial interests of retirement plan participants.
+QDIAs can be target-date retirement funds, which automatically reset their asset mix to become less risky as the specified target retirement year nears.
+Conflicting Views on ESG Funds In Wall Street Journal opposing opinion columns last month, two economics professors at Northwestern University's Kellogg School of Management in Evanston, Ill., squared off over the appropriateness of ESG funds in retirement plans.
+Aaron Yoon, an assistant professor of accounting and information management, wrote that ""Offering employees the option of investing in [ESG] funds in their 401(k) retirement-savings plans is essential.
+""Even those who are willing to pay extra to support sustainability and a 'green' agenda cannot be sure that ESG funds deliver on that either.""","Page Content
+
+This article has been updated.
+
+The U.S. Department of Labor (DOL) has proposed removing barriers put in place by the prior administration that would have limited plan fiduciaries' ability to consider climate change and other environmental, social and governance (ESG) issues as risk factors affecting workers' financial security when fiduciaries select retirement plan investments and exercise shareholder proxy voting rights.
+
+Some analysts are questioning whether the proposal, as currently worded, could require fiduciaries to consider the economic effects of climate change and other ESG factors when evaluating funds for retirement plans.
+
+
+
+The proposed rule, Prudence and Loyalty in Selecting Plan Investments and Exercising Shareholder Rights, would apply to investments included in 401(k) and other defined contribution plans, as well as to defined benefit pension plans. The proposal, published in the Federal Register on Oct. 14, follows an executive order signed in May by President Joe Biden directing the federal government to treat climate change as a threat to workers' retirement savings.
+
+In 2020, the administration of former President Donald Trump had issued a final rule, subsequently blocked by the Biden administration, that would have required sponsors of investment-based employee plans to strictly apply the fiduciary duties of prudence under the Employee Retirement Income Security Act (ERISA) when considering plan investments that promote nonfinancial objectives, such as reducing carbon emissions. A separate Trump administration final rule would have barred retirement plan fiduciaries from casting corporate-shareholder proxy votes in favor of social or political positions that don't advance the financial interests of retirement plan participants.
+
+
+
+Duties of Prudence and Loyalty
+
+
+
+Under the Biden administration, the DOL takes the position that ESG factors, and climate change issues in particular, pose financial risks that plan sponsors should consider as prudent fiduciaries.
+
+According to a DOL fact sheet, the proposed rule ""retains the core principle that the duties of prudence and loyalty require ERISA plan fiduciaries to focus on material risk-return factors and not subordinate the interests of participants and beneficiaries (such as by sacrificing investment returns or taking on additional investment risk) to objectives unrelated to the provision of benefits under the plan,"" a position similar to the prior guidance.
+
+
+
+The proposed rule, however, also ""addresses the [DOL's] concern that the 2020 [Trump administration] rules have created uncertainty and are having the undesirable effect of discouraging ERISA fiduciaries' consideration of climate change and other ESG factors in investment decisions, even in cases when it is in the financial interest of plans to take such considerations into account.""
+
+Acting Assistant Secretary for the Employee Benefits Security Administration Ali Khawar said the new proposal ""will bolster the resilience of workers' retirement savings and pensions by removing the artificial impediments—and chilling effect on environmental, social and governance investments—caused by the prior administration's rules.""
+
+He added, ""A principal idea underlying the proposal is that climate change and other ESG factors can be financially material, and, when they are, considering them will inevitably lead to better long-term risk-adjusted returns, protecting the retirement savings of America's workers.""
+
+
+
+A 'Significant Change'
+
+
+
+According to R. Sterling Perkinson, a partner in the Raleigh, N.C., office of law firm Kilpatrick Townsend, the proposed regulations ""represent a significant change in the DOL's viewpoint of fiduciary duties that relate to ESG factors and shareholder activism, but they do not fundamentally alter the fiduciary duties to make investment decisions and to vote proxies and exercise shareholder rights to enhance investment returns. They may nevertheless have an impact by removing potential barriers from selecting funds that, for example, take into account climate change impacts or corporate governance practices as part of their investment strategies.""
+
+
+
+Looking ahead, Perkinson noted, ""It remains to be seen whether the DOL will go a step further in final regulations by mandating consideration of certain ESG factors, or whether they will maintain a more neutral position that they are no different than other traditional investment criteria.""
+
+
+
+Along those lines, retirement plan consultancy October Three highlighted the section of the proposal stating that a fiduciary, when evaluating a plan investment, must generally give appropriate consideration to:
+
+""The projected return of the portfolio relative to the funding objectives of the plan, which may often require an evaluation of the economic effects of climate change and other environmental, social, or governance factors on the particular investment or investment course of action. [Emphasis added.]""
+
+
+
+
+
+The firm advised that ""the italicized language, added by this new proposal, can be read not just to authorize consideration of ESG factors but to require it 'often.' ""
+
+
+
+William D. Jewett, a partner at law firm Verrill Dana in Boston, recommended that ""fiduciaries should proceed with caution until the DOL's back-and-forth on ESG has settled into a durable set of rules. The partisan reactions to the proposed regulation that have appeared to date suggest that the back-and-forth is far from over.""
+
+
+
+ESG Default Investments
+
+The proposed rule reverses the prior rule's prohibition on using ESG funds as qualified default investment alternatives (QDIAs), which are types of mutual funds that plan sponsors can select as the default option in automatic enrollment 401(k)-type defined contribution plans.
+
+QDIAs can be target-date retirement funds, which automatically reset their asset mix to become less risky as the specified target retirement year nears. Mutual fund companies have begun marketing target-date funds made up of investments that meet their ESG criteria.
+
+""This will be a huge win, if the final rule ends up looking like the proposal, for some asset managers who rolled out ESG target-date funds over the past few years,"" Jason Roberts, CEO of the Pension Resource Institute consultancy in San Diego, told RIABiz, an online publication for investment advisors.
+
+
+
+Comments Sought
+
+The comment period for the proposed rule will run through Dec. 13, 2021. Comments can be submitted at https://www.regulations.gov/.
+
+Conflicting Views on ESG Funds In Wall Street Journal opposing opinion columns last month, two economics professors at Northwestern University's Kellogg School of Management in Evanston, Ill., squared off over the appropriateness of ESG funds in retirement plans. Aaron Yoon, an assistant professor of accounting and information management, wrote that ""Offering employees the option of investing in [ESG] funds in their 401(k) retirement-savings plans is essential. If individuals are making clear that they want the option to invest this way, there is no good reason to deny them the opportunity to do so in their 401(k) accounts."" He wrote that research he conducted with colleagues showed companies with good ESG ratings relevant to the sector in which the company operates delivered superior stock returns. In a counter-argument, Phillip Braun, a clinical professor of finance and associate chairman of the finance department at the Kellogg School of Management, wrote that ESG funds ""tend to be more expensive than other funds""—and that according to a Morningstar study, the asset-weighted average expense ratio of U.S. ESG funds was 0.61 percent in 2020, compared with 0.41 percent for all U.S. open-end mutual funds and 0.11 percent for traditional index funds. He noted that higher fund fees are correlated over time with lower returns on dollars invested, compared to similar funds with lower fees.
+
+""Determining whether a stock or a fund is truly advancing ESG goals is difficult because the investment industry lacks a comprehensive ESG measurement framework,"" Braun added. ""Even those who are willing to pay extra to support sustainability and a 'green' agenda cannot be sure that ESG funds deliver on that either.""
+
+
+
+Related SHRM Articles:
+
+401(k) 'Windows' Reconsidered as Portals for ESG Investments, SHRM Online, July 2021
+
+DOL Won't Enforce Rules Limiting 401(k) Plans' Use of Nonfinancial Factors, SHRM Online, March 2021
+
+
+
+
+
+[Small businesses can find offering a retirement plan to be daunting. SHRM is offering a program through Raymond James that may help. Visit www.shrm.org/401k to learn more.]
+
+
+
+
+
+",neutral,0.37,0.6,0.03,negative,0.04,0.21,0.75,True,English,"['DOL', 'U', '. Department of Labor', 'DOL', 'Trump', 'DOL', 'DOL', 'ERISA', 'DOL', 'ERISA', 'Employee Benefits Security Administration', 'Kilpatrick Townsend', 'DOL', 'DOL', 'October Three']",2021-10-20,shrm.org,"['ESG Funds', 'Retirement Plans', 'DOL', 'Rule', 'ESG Funds', 'Retirement Plans', 'DOL', 'Rule', 'ESG Funds', 'Retirement Plans', 'DOL', 'Rule', 'Employee Benefits Security Administration Ali Khawar', 'Employee Retirement Income Security Act', 'separate Trump administration final rule', 'The U.S. Department', 'former President Donald Trump', 'other defined contribution plans', 'other traditional investment criteria', 'shareholder proxy voting rights', 'investment-based employee plans', 'corporate-shareholder proxy votes', ""workers' financial security"", 'Acting Assistant Secretary', '2020 [Trump administration] rules', 'President Joe Biden', 'benefit pension plans', 'material risk-return factors', 'long-term risk-adjusted returns', 'retirement plan consultancy', ""workers' retirement savings"", 'other ESG factors', 'R. Sterling Perkinson', 'corporate governance practices', 'additional investment risk', 'retirement plan fiduciaries', ""plan fiduciaries' ability"", 'climate change impacts', 'retirement plan investments', 'retirement plan participants', 'DOL fact sheet', 'ERISA plan fiduciaries', ""ERISA fiduciaries' consideration"", 'climate change issues', 'retirement plans', 'Biden administration', 'Shareholder Rights', 'risk factors', 'prior administration', 'investment returns', 'shareholder activism', 'final regulations', 'governance factors', 'investment decisions', 'investment strategies', 'particular investment', 'investment course', 'prudent fiduciaries', 'financial risks', 'financial interest', 'Significant Change', 'Page Content', 'economic effects', 'Federal Register', 'executive order', 'federal government', 'carbon emissions', 'political positions', 'core principle', 'prior guidance', 'undesirable effect', 'artificial impediments', 'chilling effect', 'governance investments', 'principal idea', 'N.C.', 'Kilpatrick Townsend', 'appropriate consideration', 'italicized language', 'plan sponsors', 'nonfinancial objectives', 'funding objectives', 'law firm', 'potential barriers', 'fiduciary duties', 'new proposal', 'neutral position', 'interests', 'article', 'Labor', 'place', 'social', 'analysts', 'funds', 'Prudence', 'Loyalty', 'Exercising', 'Oct.', 'May', 'threat', 'favor', 'beneficiaries', 'provision', 'concern', 'uncertainty', 'cases', 'considerations', 'account', 'resilience', 'pensions', 'America', 'partner', 'Raleigh', 'office', 'viewpoint', 'proxies', 'example', 'lines', 'section', 'portfolio', 'evaluation', 'action', 'Emphasis']"
+ESG,Google API,https://riabiz.com/a/2021/10/14/big-effect-of-dols-proposed-undoing-of-trump-era-401k-esg-investing-chill-is-to-permit-esgs-tdfs-as-default-option-where-blackrock-and-natixis-have-products,Big effect of DOL's proposed undoing of Trump-era 401(k) ESG investing chill is to permit ESGs TDFs as default option where BlackRock and Natixis have products,"This DOL green light to permit ESG as a key factor in investing for plan sponsors takes a step into that direction.
+The rule put plan sponsors using environmental, social and governance factors to decide portfolio composition on ice skates for a potential audit or lawsuit.
+The DOL's move to eliminate ESG factors took a vital tool away from asset managers, Aron Szapiro, director of policy reseach at Morningstar writes.
+He was formerly a senior analyst at the U.S. Government Accountability Office (GAO), specializing in retirement security issues and pension plan policy.
+Less known but no less cheered in the industry was DOL's reversal of the Trump rule's prohibition on using ESG factors in Qualified Default Investment Alternatives, also known as QDIAs.","The Labor Dept. stops short of giving fiduciaries environmental, social and governance factor carte blanche but recognizes non-pecuniary factors are legit considerations.
+
+October 14, 2021 — 1:08 AM by Brooke Southall
+
+Brooke's Note: There is no way to do business with a person or entity without trusting them. In fact, the more you trust your business partner, the deeper and more effective the business relationship can be. Constant verification is a giant cause of friction. It's time-consuming and is itself a cause of distrust. As the investment industry continues to rapidly advance, the business models that presume high levels of trust like RIAs or ERISA-ruled pensions are going to win out. But now we are asking fiduciaries to raise their game, again, so that we can take on four- or five-level chess after years where one or two seemed sufficient. But we can't begin to put this onus onto them without trusting them. This DOL green light to permit ESG as a key factor in investing for plan sponsors takes a step into that direction. Giving fiduciaries God-like ESG powers to diagnose good and bad, globally, may solve some problems but will potentially creating new ones as well. See:Suddenly Vanguard, BlackRock, State Street not only have the assets but the power of ESG mandates, which make them a growing threat to shareholder democracy, critics say But as they say: You've got to trust someone. Or start to.
+
+0 Comment s
+
+Federal regulators today announced a proposed rule that takes ESG from being a plan sponsor caveat emptor to one that can be used with impunity as a tie-breaker with pecuniary factors.
+
+Jason Roberts: This will be a huge win, if the final rule ends up looking like the proposal, for a some asset managers who rolled out ESG target date funds
+
+
+
+The Department of Labor (DOL), which oversees trillions of dollars in pension assets, took the chill out of an 11th-our rule the Trump administration imposed days before the Nov. 2020 presidential election.
+
+The rule put plan sponsors using environmental, social and governance factors to decide portfolio composition on ice skates for a potential audit or lawsuit.
+
+""While the prior rule was only in “effect” for a few months, we did see a chilling effect on plan sponsors’ willingness to consider ESG factors,"" says Jason Roberts, CEO of Pension Resources in San Diego.
+
+""Advisors were also reluctant to introduce such factors into their analysis.
+
+The DOL's move to eliminate ESG factors took a vital tool away from asset managers, Aron Szapiro, director of policy reseach at Morningstar writes. He was formerly a senior analyst at the U.S. Government Accountability Office (GAO), specializing in retirement security issues and pension plan policy.
+
+""We have argued for some time that the Labor Department should not have raised barriers for plan sponsors that wish to use ESG analysis to select investments,"" he said. ""In fact, ESG considerations can be financially material, and many asset managers integrate them into their analysis.
+
+""Today, the DOL unveiled its proposal. Comments are due within 60 days, so I anticipate a final rule will be published in early 2022 with an effective date in Q2 or early Q3,"" Roberts says.
+
+Huge win
+
+The key line written in the new DOL rule is: If after considering relevant factors, a fiduciary concludes that “competing investments … equally serve the financial interests of the plan … the fiduciary is not prohibited from selecting the investment … based on collateral benefits other than investment returns.”
+
+It's a double-edged sword that plan sponsors can live with, Roberts says.
+
+""Translation: Fiduciaries can use ESG factors to break a tie – even if the factor is not directly tied to performance; they may not, however, accept expected reduced returns or greater risks to secure such,"" Roberts says.
+
+Less known but no less cheered in the industry was DOL's reversal of the Trump rule's prohibition on using ESG factors in Qualified Default Investment Alternatives, also known as QDIAs. It's the product or portfolio that an employee uses to contribute to their plan when they punt on making a selection.
+
+""Most people access retirement investments through these defaults when they are available, so undoing this rule is key to mainstreaming ESG,"" Szapiro says.
+
+The importance of QDIAs is that they become a “safe harbor,” hence the employer is absolved of liability should the QDIA absorb investment losses.
+
+""This will be a huge win, if the final rule ends up looking like the proposal, for a some asset managers who rolled out ESG target date funds over the past few years,"" Roberts says.
+
+BlackRock and Natixis top the list of fund firms with products in this ESG target-date category.
+
+Zeroing risk
+
+BlackRock CEO Larry Fink published a very ESG-centric guest essay in The New York Times, today, simultaneous with DOL's ESG announcement.
+
+The Fink letter begs for a way to use finance to reduce climate change risk in developing countries that lack capital investment. He suggests using government grants and subsidies to supplement institutional investors, like pension funds and insurance companies.
+
+The goal would be to absorb risks characteristic of emerging economies--political instability, credit risk and the enforceability of contracts.
+
+""An essential part of raising the scale of capital necessary to transition emerging market economies to net zero will be using public finance to raise more private capital.""
+
+Essentially, governments would serve as co-signers on private loans made to buy clean infrastructure.
+
+It is based on the fact that emerging markets -- particularly India and Brazil -- will need at least $1 trillion per year to achieve net-zero emissions by 2050 – more than six times current investment.
+
+Private funding for emerging market climate finance is constrained by a high level of country risk -- a problem because they are currently ""undiversifiable risks.""
+
+""Government funding in the form of grants and subsidies can absorb some of the risks that come with investing in emerging economies. They can make climate projects a viable option for institutional investors,"" he writes.
+
+New game
+
+The Trump rule was proposed in June, 2020, and finalized on Oct 30, four days before Trump went down in defeat at the polls. It officially took effect Jan.12, this year. See: A big wince as Trump's DOL presses efforts to erase Obama-era ESG guidance, with tough new rule to curb do-good funds in ERISA accounts; critics cry 'politics'
+
+It required fiduciaries for private pension plans covered by the Employee Retirement Income Security Act of 1974 (ERISA) to avoid investing in ESG products that sacrifice investment returns or take on additional risk to meet ESG goals.
+
+Specifically, it directed ERISA plan fiduciaries to “select investments and investment courses of action based solely on financial considerations relevant to the risk-adjusted economic value of a particular investment or investment course of action.”",neutral,0.03,0.84,0.13,mixed,0.22,0.12,0.66,True,English,"['DOL', 'BlackRock', 'Natixis', 'Labor Dept.', 'ERISA', 'DOL', 'Vanguard', 'BlackRock', 'State Street', 'ESG', 'Department of Labor', 'DOL', 'administration', 'Pension Resources', 'DOL', 'Morningstar', 'U.S. Government Accountability Office', 'GAO', 'Labor Department', 'ESG', 'DOL', 'DOL', 'DOL', 'BlackRock', 'Natixis', 'BlackRock', 'The New York Times', 'DOL']",2021-10-14,riabiz.com,"['Trump-era 401(k) ESG investing chill', 'Big effect', 'ESGs TDFs', 'default option', 'DOL', 'undoing', 'BlackRock', 'Natixis', 'products', 'Trump-era 401(k) ESG investing chill', 'Big effect', 'ESGs TDFs', 'default option', 'DOL', 'undoing', 'BlackRock', 'Natixis', 'products', 'Trump-era 401(k) ESG investing chill', 'Big effect', 'ESGs TDFs', 'default option', 'DOL', 'undoing', 'BlackRock', 'Natixis', 'products', 'U.S. Government Accountability Office', 'plan sponsor caveat emptor', 'Qualified Default Investment Alternatives', 'The New York Times', 'ESG target date funds', 'BlackRock CEO Larry Fink', 'The Fink letter', 'Nov. 2020 presidential election', 'ESG-centric guest essay', 'retirement security issues', 'climate change risk', 'ESG target-date category', 'The Labor Dept.', 'DOL green light', 'many asset managers', 'plan sponsors’ willingness', 'pension plan policy', 'new DOL rule', 'pension funds', 'government grants', 'effective date', 'The Department', 'The DOL', 'policy reseach', 'Zeroing risk', 'Pension Resources', 'retirement investments', 'investment returns', 'investment losses', 'capital investment', 'ESG powers', 'ESG mandates', 'ESG considerations', 'ESG announcement', 'ESG factors', 'legit considerations', 'Constant verification', 'high levels', 'ERISA-ruled pensions', 'five-level chess', 'State Street', 'growing threat', 'shareholder democracy', 'Federal regulators', 'huge win', 'Trump administration', 'ice skates', 'potential audit', 'San Diego', 'vital tool', 'senior analyst', 'Labor Department', 'key line', 'financial interests', 'collateral benefits', 'double-edged sword', 'reduced returns', 'greater risks', 'Most people', 'safe harbor', 'fund firms', 'developing countries', 'institutional investors', 'pecuniary factors', 'governance factors', 'relevant factors', 'business partner', 'business relationship', 'business models', 'pension assets', 'final rule', 'prior rule', 'Trump rule', 'key factor', 'competing investments', 'investment industry', 'Brooke Southall', 'giant cause', 'environmental, social', 'portfolio composition', 'chilling effect', 'Aron Szapiro', 'early Q', 'ESG analysis', 'Jason Roberts', 'fiduciaries', 'October', 'Note', 'way', 'person', 'entity', 'friction', 'distrust', 'RIAs', 'game', 'years', 'one', 'onus', 'investing', 'step', 'direction', 'good', 'problems', 'Vanguard', 'critics', 'Comment', 'impunity', 'tie-breaker', 'proposal', 'trillions', 'dollars', 'lawsuit', 'months', 'Advisors', 'move', 'director', 'Morningstar', 'GAO', 'barriers', '60 days', 'Q2', 'fiduciary', 'Translation', 'performance', 'reversal', 'prohibition', 'QDIAs', 'product', 'employee', 'selection', 'defaults', 'importance', 'employer', 'liability', 'past', 'Natixis', 'list', 'finance', 'subsidies']"
+ESG,PyNews API,https://www.reuters.com/legal/legalindustry/esg-trends-improving-standardizing-disclosure-2021-10-20/,ESG trends: improving and standardizing disclosure - Reuters,"With this trend, the focus on valuation of social, environmental and governance (ESG) impacts is increasingly taking center stage while rapidly evolving in the process.
+The wait for a required ESG disclosure framework may not be too far off, as SEC's proposed rule on climate disclosures is expected soon.
+Although climate change is the current focus of the SEC, the Biden administration has closely linked climate impacts to environmental justice.
+ESG disclosures can offer opportunity to reflect the value, and realize the benefit, of corporate actions that implicate both social and environmental impacts.
+Environmental justice is a prime example of an evolving area of ESG that the market and regulators may likely embrace for increased disclosure.","REUTERS/Bruno Kelly
+
+Companies Global Reporting Initiative See all The company and law firm names shown above are generated automatically based on the text of the article. We are improving this feature as we continue to test and develop in beta. We welcome feedback, which you can provide using the feedback tab on the right of the page.
+
+October 20, 2021 - The millennial generation is undeniably shaping and influencing investment decisions across the economy. Millennials are demanding a heightened focus on equity, racial justice and the environment. With this trend, the focus on valuation of social, environmental and governance (ESG) impacts is increasingly taking center stage while rapidly evolving in the process. Key institutional investors have embraced this trend as good business sense by making sustainability their new standard for investment.
+
+According to Blackrock, part of a company's commitment to long-term sustainable growth involves better data and disclosures to help investors understand ""the deep interdependence between environmental and social issues,"" especially given that ""climate change is already having a disproportionate impact on low-income communities around the world.""
+
+Heeding the call, corporate directors are actively looking beyond short-term profit and loss and demanding to see that their companies are effectively grappling with the realities of social change, the challenges of operational environmental impacts, and opportunities to engage with community stakeholders. This leads to hard questions at shareholder meetings and the push for more information and data in these areas.
+
+While directors may be driven in some instances by personal commitments to the global corporate good, their actions are also rooted in business judgment, as market demands for corporate social accountability are changing the expectations of corporate fiduciary duty. Indeed, ample evidence reveals that poor environmental performance and undesirable corporate impacts may negatively impact operations, limit access to capital, and cause adverse reputational effects.
+
+The Biden administration's ""whole of government"" (https://bit.ly/3lToITK) focus on environmental justice, and particularly its Justice40 movement, which strives to drive 40 percent of federal financial investments to vulnerable communities and communities of color, leverages this evolving ESG movement.
+
+In fact, the government is looking at these ""environmental justice"" or ""EJ"" communities in every aspect of its decision-making across industries and sectors, particularly in connection with climate change and emissions impacts, which are a critical focus of voluntary ESG reporting. As the U.S. Securities and Exchange Commission (SEC) works to craft a potential new rule aimed at standardizing ESG reporting among registered companies, climate risk and impacts will likely be a focus.
+
+The increased public, federal, and corporate focus around social, economic and environmental equity presents an incredible opportunity to corporate leaders that lean into this moment. Not only the public, but companies and their shareholders are craving more standardization and improved reporting and disclosure for environmental and social impacts, including around community engagement and commitments. Companies not only have a chance to develop and refine their own disclosures, but also to shape the very rules that will be applied.
+
+Under the evolving principles of ESG, companies are continuously refining approaches to corporate disclosures in the areas of energy use, human rights protection and environmental stewardship. Increasingly, corporate websites, shareholder reports and reports to regulatory bodies are including more than just a passing reference to company performance in the environmental and human capital space. These disclosures now often include data and details such as graphs on air emissions, including greenhouse gas calculations, and energy use trends; inventories of environmental releases; results of employee quality of life surveys; summaries of charitable and educational investments, and even case studies on partnerships and collaborations with neighboring fenceline communities.
+
+There is certainly a business case for ESG and EJ, as investors are now viewing the impacts of climate change as the existential crisis of our time. Over time, it is certainly possible that access to public and private capital may be prioritized for companies that help mitigate environmental stressors rather than exacerbate them. The SEC has emphasized that ESG risks, such as those related to diversity, are important predictors for organizational resilience and maximizing risk-adjusted returns on investments.
+
+In many ways, the crux of ESG involves identifying risks and opportunities that are not readily apparent in the traditional corporate financial disclosures. Evolving ESG expectations reflect the notion that anything perceived by the market as materially affecting a company's long-term value should be measured, managed and reported on — including non-financial, social and environmental information.
+
+Companies at the leading edge of both ESG and the public focus on equity are holding related discussions not just in the Boardroom or C-Suite but are engaging employees at all levels of the company and seeking to understand and evaluate direct or indirect impacts, whether local, national, or global. Internally, employees are assessing sustainability, developing measurable goals, and helping to integrate ESG and other equity considerations, such as environmental justice, in both corporate values and individual performance evaluations — even executive performance bonuses are being tied to performance against social and environmental values.
+
+At this point, however, there are few metrics or rules for companies to directly quantify, for comparison, traditionally subjective impacts. In fact, public reports indicate that board and corporate executives are desperate for more guidance on ""how to do"" consistent ESG disclosures, and they are troubled by the current variability across industry sectors. Many companies just include these burgeoning ESG metrics in their financial reporting while others are releasing standalone ESG reports.
+
+Two of the most widely used ESG voluntary disclosure frameworks, Global Reporting Initiative (GRI) and the Sustainability Accounting Standards Board (SASB) take different approaches to ""quantifying"" impacts for the marketplace.
+
+Many of the SASB industry sector frameworks require specific disclosure of the number of facilities located in or near dense areas of population. GRI, on the hand, requires reporting on topics that are ""material."" It is up to the company to decide what is ""material,"" but these include reporting on local community engagement, monitoring, grievance processes, vulnerable groups, and health and safety impacts of products and services.
+
+The wait for a required ESG disclosure framework may not be too far off, as SEC's proposed rule on climate disclosures is expected soon. As a precursor to a potential rule, the SEC launched a new Climate and ESG Task Force earlier this year and appointed its first policy advisory for climate and ESG. Although climate change is the current focus of the SEC, the Biden administration has closely linked climate impacts to environmental justice. The SEC could soon propose new rules regarding disclosures about other ESG concepts, such as environmental justice, racial equity in human capital, and political contributions.
+
+As the SEC explores how to place parameters around ESG reporting, companies should consider how best to describe their organization's strategy around climate and environmental justice, racial and economic equity, and human rights, as well as stewardship of land, natural resources and local economies. Even more challenging will be any consideration (required or voluntary) of cumulative environmental or social impacts, actions taken to address environmental, climate and social inequity, and the results of those actions.
+
+Another federal agency in the environmental disclosure game is the U.S. Federal Trade Commission (FTC), which issued the Green Guides to prevent companies from making environmental claims that mislead consumers. The guides include general principles that apply to all environmental marketing claims and have historically been used to protect consumers from products with misleading environmental claims — like ""made with renewable energy"" or ""fully biodegradable.""
+
+Citizen groups, however, are pushing the FTC to expand the application of the Green Guides to marketing claims around general business operations and human impacts. A current petition asks the FTC to find that a multinational energy company is misleading the public with any green claims because its core products are fossil fuel derived and its operations disproportionally impact minority communities. As companies trumpet their environmental or social justice accomplishments through ESG reporting, such disclosures and claims are well-served by appropriate and ongoing due diligence to support credibility and avoid challenges.
+
+As the environmental and social justice movements continue to unfold, companies are well served to think ahead and be nimble. ESG disclosures can offer opportunity to reflect the value, and realize the benefit, of corporate actions that implicate both social and environmental impacts. Environmental justice is a prime example of an evolving area of ESG that the market and regulators may likely embrace for increased disclosure.
+
+The companies that will benefit most from increased ESG disclosure are those that have an internal and external strategy for identifying, assessing, addressing and quantifying these risks in their operations. The time is now to seize this moment to meet the expectations of investors, employees, the public, and frankly the world — going forward.
+
+Opinions expressed are those of the author. They do not reflect the views of Reuters News, which, under the Trust Principles, is committed to integrity, independence, and freedom from bias. Westlaw Today is owned by Thomson Reuters and operates independently of Reuters News.",neutral,0.14,0.85,0.01,mixed,0.29,0.12,0.59,True,English,"['ESG', 'Reuters', 'REUTERS', 'Initiative', 'Blackrock', 'its', 'Justice40', 'ESG', 'Securities and Exchange Commission', 'SEC', 'ESG', 'ESG', 'EJ', 'SEC', 'ESG', 'ESG']",2021-10-20,reuters.com,"['ESG trends', 'disclosure', 'Reuters', 'ESG trends', 'disclosure', 'Reuters', 'ESG trends', 'disclosure', 'Reuters', 'REUTERS/Bruno Kelly\n\nCompanies Global Reporting Initiative', 'traditional corporate financial disclosures', 'global corporate good', 'law firm names', 'adverse reputational effects', 'U.S. Securities', 'human rights protection', 'greenhouse gas calculations', 'corporate fiduciary duty', 'long-term sustainable growth', 'The Biden administration', 'potential new rule', 'good business sense', 'voluntary ESG reporting', 'federal financial investments', 'human capital space', 'energy use trends', 'neighboring fenceline communities', 'corporate social accountability', 'Key institutional investors', 'undesirable corporate impacts', 'poor environmental performance', 'evolving ESG movement', 'operational environmental impacts', 'Evolving ESG expectations', 'improved reporting', 'financial, social', 'evolving principles', 'corporate leaders', 'corporate websites', 'new standard', 'Justice40 movement', 'long-term value', 'corporate disclosures', 'business judgment', 'business case', 'corporate focus', 'social issues', 'social change', 'social, economic', 'social impacts', 'corporate directors', 'social, environmental', 'millennial generation', 'racial justice', 'ESG) impacts', 'center stage', 'deep interdependence', 'climate change', 'disproportionate impact', 'low-income communities', 'short-term profit', 'community stakeholders', 'hard questions', 'shareholder meetings', 'ample evidence', 'vulnerable communities', 'emissions impacts', 'Exchange Commission', 'climate risk', 'incredible opportunity', 'community engagement', 'regulatory bodies', 'passing reference', 'air emissions', 'employee quality', 'life surveys', 'educational investments', 'case studies', 'existential crisis', 'private capital', 'The SEC', 'important predictors', 'organizational resilience', 'risk-adjusted returns', 'many ways', 'environmental justice', 'environmental stewardship', 'environmental releases', 'environmental stressors', 'environmental info', 'registered companies', 'company performance', 'heightened focus', 'critical focus', 'feedback tab', 'investment decisions', 'personal commitments', 'market demands', 'EJ"" communities', 'shareholder reports', 'ESG risks', 'environmental equity', 'text', 'article', 'feature', 'beta', 'page', 'economy', 'Millennials', 'valuation', 'governance', 'process', 'sustainability', 'Blackrock', 'part', 'data', 'world', 'call', 'loss', 'realities', 'challenges', 'opportunities', 'push', 'information', 'areas', 'instances', 'actions', 'operations', 'access', 'government', 'lToITK', '40 percent', 'color', 'fact', 'aspect', 'decision-making', 'industries', 'sectors', 'connection', 'moment', 'public', 'shareholders', 'standardization', 'chance', 'rules', 'approaches', 'details', 'graphs', 'inventories', 'results', 'summaries', 'charitable', 'collaborations', 'time', 'diversity', 'crux', 'notion']"
+ESG,PyNews API,https://www.reuters.com/business/aerospace-defense/etihad-raises-12-bln-first-sustainability-linked-esg-loan-aviation-2021-10-13/,Etihad raises $1.2 bln in first sustainability-linked ESG loan in aviation - Reuters,"DUBAI, Oct 13 (Reuters) - Etihad Airways said on Wednesday it has raised $1.2 billion with a loan linked to environmental, social and governance (ESG) targets in global aviation.
+""Through our Greenliner programme, we are pursuing multiple sustainability-related initiatives at Etihad Airways to improve the environmental footprint of aviation, and green financing is a key part of our strategy,"" the group's CFO Adam Boukadida said.
+An Etihad Airways Airbus A320-200 at the National Airport Minsk, Belarus, April 19, 2018.
+HSBC and FAB acted as joint ESG structuring banks, joint ESG coordinators, joint bookrunners and mandated lead arrangers.
+Last year, Etihad raised $600 million in ""transition"" sukuk, or Islamic bonds, which are used by companies to switch to more environmentally sustainable operations.","DUBAI, Oct 13 (Reuters) - Etihad Airways said on Wednesday it has raised $1.2 billion with a loan linked to environmental, social and governance (ESG) targets in global aviation.
+
+The airline said this was the first sustainability-linked loan in global aviation tied to ESG targets, which relate to reducing carbon emissions and improving corporate governance in addition to advancing female participation.
+
+""Through our Greenliner programme, we are pursuing multiple sustainability-related initiatives at Etihad Airways to improve the environmental footprint of aviation, and green financing is a key part of our strategy,"" the group's CFO Adam Boukadida said.
+
+An Etihad Airways Airbus A320-200 at the National Airport Minsk, Belarus, April 19, 2018. REUTERS/Vasily Fedosenko
+
+Etihad has committed to a target of net zero carbon emissions by 2050.
+
+HSBC and FAB acted as joint ESG structuring banks, joint ESG coordinators, joint bookrunners and mandated lead arrangers. FAB also acted as facility agent.
+
+Last year, Etihad raised $600 million in ""transition"" sukuk, or Islamic bonds, which are used by companies to switch to more environmentally sustainable operations.
+
+It also raised a 100 million euro loan in 2019 tied to the United Nations Sustainable Development Goals.
+
+Reporting by Alexander Cornwell; Writing by Shakeel Ahmad. Editing by Jane Merriman
+
+Our Standards: The Thomson Reuters Trust Principles.",neutral,0.0,1.0,0.0,positive,0.93,0.06,0.01,True,English,"['Etihad', 'Reuters', 'Reuters', 'Etihad Airways', 'Etihad Airways', 'Etihad Airways', 'REUTERS', 'Etihad', 'HSBC', 'FAB', 'FAB', 'Etihad', 'United Nations', 'Thomson Reuters']",2021-10-13,reuters.com,"['first sustainability-linked ESG loan', 'Etihad', 'aviation', 'Reuters', 'first sustainability-linked ESG loan', 'Etihad', 'aviation', 'Reuters', 'first sustainability-linked ESG loan', 'Etihad', 'aviation', 'Reuters', 'United Nations Sustainable Development Goals', 'The Thomson Reuters Trust Principles', 'An Etihad Airways Airbus A320', 'net zero carbon emissions', 'joint ESG structuring banks', 'multiple sustainability-related initiatives', 'CFO Adam Boukadida', 'joint ESG coordinators', 'first sustainability-linked loan', '100 million euro loan', 'sustainable operations', 'joint bookrunners', 'ESG) targets', 'ESG targets', 'female participation', 'Greenliner programme', 'environmental footprint', 'green financing', 'key part', 'National Airport', 'Vasily Fedosenko', 'lead arrangers', 'facility agent', 'transition"" sukuk', 'Islamic bonds', 'Alexander Cornwell', 'Shakeel Ahmad', 'Jane Merriman', 'global aviation', 'corporate governance', 'DUBAI', 'Wednesday', 'social', 'airline', 'addition', 'strategy', 'group', 'Minsk', 'Belarus', 'April', 'HSBC', 'FAB', 'companies', 'Reporting', 'Writing', 'Editing', 'Standards']"
+ESG,PyNews API,https://www.reuters.com/video/watch/idOVEYZZ3PN,Etihad raises $1.2 bln in sustainability-linked debt - Reuters.com,"BusinessEtihad raises $1.2 bln in sustainability-linked debtPostedEtihad Airways said on Wednesday it has raised $1.2 billion with a loan linked to environmental, social and governance (ESG) targets in global aviation.","Business
+
+Etihad raises $1.2 bln in sustainability-linked debt
+
+Posted
+
+Etihad Airways said on Wednesday it has raised $1.2 billion with a loan linked to environmental, social and governance (ESG) targets in global aviation.",negative,0.0,0.3,0.7,negative,0.0,0.11,0.89,True,English,"['Etihad', 'Reuters', 'Reuters.com', 'Etihad', 'Etihad Airways']",2021-10-20,reuters.com,"['sustainability-linked debt', 'Etihad', 'Reuters', 'sustainability-linked debt', 'Etihad', 'Reuters', 'sustainability-linked debt', 'Etihad', 'Reuters', 'sustainability-linked debt', 'ESG) targets', 'global aviation', 'Etihad Airways', 'Business', 'Wednesday', 'loan', 'social', 'governance']"
+ESG,PyNews API,https://www.reuters.com/world/middle-east/sedco-lombard-odier-launch-esg-focused-sharia-compliant-fund-2021-09-29/,"SEDCO, Lombard Odier launch ESG-focused sharia-compliant fund - Reuters","The logo of private bank Lombard Odier (LODH) is seen at a branch office in Zurich, Switzerland August 12, 2019.
+REUTERS/Arnd Wiegmann/File PhotoDUBAI, Sept 29 (Reuters) - Saudi Arabia's financial firm SEDCO Capital and Switzerland's Lombard Odier have launched an ESG-focused sharia-compliant fund to invest in developed market equities, they said on Wednesday.
+Jeddah-headquartered SEDCO Capital, an asset management and investment advisory firm overseeing more than $5 billion in assets, will manage the fund, called SC LO Global ESG Equities Fund.
+Swiss private banking and asset management group Lombard Odier will work as investment adviser.
+Fund managers in the Gulf expect strong growth over the next year supported by growing demand for Islamic products and ESG investment, a survey by ratings agency Moody's showed this month.","The logo of private bank Lombard Odier (LODH) is seen at a branch office in Zurich, Switzerland August 12, 2019. REUTERS/Arnd Wiegmann/File Photo
+
+DUBAI, Sept 29 (Reuters) - Saudi Arabia's financial firm SEDCO Capital and Switzerland's Lombard Odier have launched an ESG-focused sharia-compliant fund to invest in developed market equities, they said on Wednesday.
+
+Global investors are increasingly driven by environmental, social and governance-related (ESG) factors, seen by the $2.2 trillion Islamic finance industry as complementary to sharia principles on social and sustainable investing.
+
+The fund ""will employ a pragmatic, systematic, and multi-factor approach that aligns Shariah-compliant, responsible investment, and sustainability principles to construct a portfolio with a high ESG score"", the two firms said in a joint statement.
+
+Jeddah-headquartered SEDCO Capital, an asset management and investment advisory firm overseeing more than $5 billion in assets, will manage the fund, called SC LO Global ESG Equities Fund.
+
+Swiss private banking and asset management group Lombard Odier will work as investment adviser.
+
+Fund managers in the Gulf expect strong growth over the next year supported by growing demand for Islamic products and ESG investment, a survey by ratings agency Moody's showed this month.
+
+Reporting by Davide Barbuscia; editing by Jason Neely
+
+Our Standards: The Thomson Reuters Trust Principles.",neutral,0.0,0.99,0.01,positive,0.64,0.33,0.03,True,English,"['SEDCO', 'Lombard Odier', 'Reuters', 'Lombard Odier', 'LODH', 'REUTERS', 'Reuters', 'SEDCO Capital', 'Lombard Odier', 'SEDCO Capital', 'SC', 'Lombard', ""Moody's"", 'Thomson Reuters']",2021-09-29,reuters.com,"['Lombard Odier launch', 'ESG-focused sharia-compliant fund', 'SEDCO', 'Reuters', 'Lombard Odier launch', 'ESG-focused sharia-compliant fund', 'SEDCO', 'Reuters', 'Lombard Odier launch', 'ESG-focused sharia-compliant fund', 'SEDCO', 'Reuters', 'The Thomson Reuters Trust Principles', '$2.2 trillion Islamic finance industry', 'Swiss private banking', 'high ESG score', 'Jeddah-headquartered SEDCO Capital', 'asset management group', 'investment advisory firm', 'ESG-focused sharia-compliant fund', 'sharia principles', 'sustainability principles', 'Islamic products', 'ESG investment', 'financial firm', 'ESG) factors', 'investment adviser', 'Lombard Odier', 'branch office', 'File Photo', 'Saudi Arabia', 'Global investors', 'sustainable investing', 'multi-factor approach', 'two firms', 'joint statement', 'strong growth', 'next year', 'growing demand', 'ratings agency', 'Davide Barbuscia', 'Jason Neely', 'Fund managers', 'market equities', 'logo', 'LODH', 'Zurich', 'Switzerland', 'DUBAI', 'Wednesday', 'social', 'governance-related', 'portfolio', 'assets', 'Gulf', 'survey', 'Moody', 'Reporting', 'editing', 'Standards']"
+ESG,PyNews API,https://www.reuters.com/breakingviews/mediobanca-rebel-dresses-up-esg-colours-2021-09-29/,Mediobanca rebel dresses up in ESG colours - Reuters,"LONDON, Sept 29 (Reuters Breakingviews) - Mediobanca’s (MDBI.MI) pushy investor Leonardo Del Vecchio is putting his activist clothes on.
+He wants to remove a requirement that up to three Mediobanca executives with at least three years of experience at the bank should sit on the board, and give minority shareholders two more board representatives.
+Del Vecchio, 86, has been critical of Chief Executive Alberto Nagel’s leadership and strategy.
+He is also not inclined to renew Mediobanca-backed Philippe Donnet's tenure as chief executive of insurer Generali (GASI.MI) read more .
+Granting more power to minority shareholders might eventually let the veteran entrepreneur on the board, even though it is not due to be renewed until 2023.","LONDON, Sept 29 (Reuters Breakingviews) - Mediobanca’s (MDBI.MI) pushy investor Leonardo Del Vecchio is putting his activist clothes on. The eyewear billionaire, who owns a 19% stake, proposed on Tuesday read more to amend the bank’s by-laws at an Oct. 28 shareholder meeting. He wants to remove a requirement that up to three Mediobanca executives with at least three years of experience at the bank should sit on the board, and give minority shareholders two more board representatives. Both would be an improvement in Mediobanca’s outdated governance and will likely be well-received by other investors.
+
+Yet the move is less innocent than it looks. Del Vecchio, 86, has been critical of Chief Executive Alberto Nagel’s leadership and strategy. He is also not inclined to renew Mediobanca-backed Philippe Donnet's tenure as chief executive of insurer Generali (GASI.MI) read more . Granting more power to minority shareholders might eventually let the veteran entrepreneur on the board, even though it is not due to be renewed until 2023. Yet, the prospect alone is enough to keep Nagel on his toes. (By Lisa Jucca)
+
+On Twitter http://twitter.com/breakingviews
+
+Capital Calls - More concise insights on global finance:
+
+U.S. political divisions crash into debt ceiling read more
+
+Hollywood agents feel the showbiz squeeze read more
+
+UK $1.5 bln software buyout is fittingly cheap read more
+
+BHP’s climate plans miss the target read more
+
+Goldman fund IPO leaves little on the table read more
+
+Editing by Neil Unmack and Karen Kwok",neutral,0.0,0.95,0.05,negative,0.01,0.07,0.92,True,English,"['Mediobanca', 'ESG', 'Reuters', 'Reuters', 'Mediobanca', 'MDBI.MI', 'Mediobanca', 'Mediobanca', 'Mediobanca', 'Generali', 'GASI.MI', 'Twitter', 'BHP', 'Goldman fund']",2021-09-29,reuters.com,"['Mediobanca rebel', 'ESG colours', 'Reuters', 'Mediobanca rebel', 'ESG colours', 'Reuters', 'Mediobanca rebel', 'ESG colours', 'Reuters', 'U.S. political divisions', 'UK $1.5 bln software buyout', 'Chief Executive Alberto Nagel', 'Oct. 28 shareholder meeting', 'Mediobanca-backed Philippe Donnet', 'Goldman fund IPO', 'Leonardo Del Vecchio', 'three Mediobanca executives', 'three years', 'pushy investor', 'activist clothes', 'eyewear billionaire', 'minority shareholders', 'outdated governance', 'other investors', 'insurer Generali', 'GASI.MI', 'veteran entrepreneur', 'Lisa Jucca', 'Capital Calls', 'concise insights', 'global finance', 'debt ceiling', 'Hollywood agents', 'showbiz squeeze', 'climate plans', 'Neil Unmack', 'Karen Kwok', 'Reuters Breakingviews', 'board representatives', 'LONDON', '19% stake', 'Tuesday', 'bank', 'laws', 'requirement', 'up', 'experience', 'improvement', 'move', 'leadership', 'strategy', 'tenure', 'power', 'prospect', 'toes', 'Twitter', 'BHP', 'target', 'table', 'Editing']"
+ESG,PyNews API,https://www.reuters.com/business/sustainable-business/shipping-industry-faces-esg-heat-lenders-2021-10-19/,Shipping industry faces ESG heat from lenders - Reuters,"A view of stacked shipping containers at Southampton docks, Southampton, Britain, October 18, 2021.
+REUTERS/Matthew ChildsLONDON, Oct 19 (Reuters) - Banks are demanding much stricter environmental criteria when financing shipping companies as investor pressure grows on the sector to accelerate going greener, according to Boston Consulting Group (BCG).
+Shipping, which transports about 90% of world trade, accounts for nearly 3% of the world's CO2 emissions and BCG forecast the industry will need $2.4 trillion to achieve net-zero emissions by 2050.
+Leading shipping financiers currently provide close to $300 billion of lending to the industry annually, analysts estimate.
+ESG-related assets under management are estimated to represent up to 80% of total lending to shipping by 2030, BCG said.","A view of stacked shipping containers at Southampton docks, Southampton, Britain, October 18, 2021. Picture taken with a drone. REUTERS/Matthew Childs
+
+LONDON, Oct 19 (Reuters) - Banks are demanding much stricter environmental criteria when financing shipping companies as investor pressure grows on the sector to accelerate going greener, according to Boston Consulting Group (BCG).
+
+Shipping, which transports about 90% of world trade, accounts for nearly 3% of the world's CO2 emissions and BCG forecast the industry will need $2.4 trillion to achieve net-zero emissions by 2050.
+
+""ESG-driven requests are already prompting more action from banks. Shipping is already feeling it and they (shipping companies) are under pressure now,"" said Peter Jameson, partner with BCG, which are consultants for the COP26 UN climate summit that starts on Oct. 31.
+
+Standard Chartered (STAN.L) has already provided loans linked to sustainability targets for drilling group Odfjell and the shipping division of Oman's Asyad Group, the bank has said.
+
+""When looking at lending on new assets, banks are going to create a bigger conduit for CO2 reductions through their policies,"" Jameson told Reuters.
+
+""The banks are also seeing insurance companies feeling shareholder pressure and this is also causing big pension funds to reassess.""
+
+Leading shipping financiers currently provide close to $300 billion of lending to the industry annually, analysts estimate.
+
+Of the $2.4 trillion that BCG estimates will be needed to achieve net-zero emissions by 2050, Jameson said $500 billion would be required between now and 2030 with the remaining $1.9 trillion between 2030-2050.
+
+The bulk of the total amount – around $1.7 trillion – would go towards developing future fuels.
+
+""Funding sources are already becoming available, yet plenty more are still required,"" Jameson said.
+
+ESG-related assets under management are estimated to represent up to 80% of total lending to shipping by 2030, BCG said.
+
+UN shipping agency the International Maritime Organization (IMO) has said it aims to reduce overall greenhouse gas (GHG) emissions from ships by 50% from 2008 levels by 2050, but industry groups are calling for more progress from governments.
+
+""The risks to balance sheets will start to force more questions being asked to the IMO,"" said Ulrik Sanders, managing director at BCG, adding that this would ""prompt more action towards decarbonisation"".
+
+Editing by Susan Fenton
+
+Our Standards: The Thomson Reuters Trust Principles.",neutral,0.01,0.99,0.0,mixed,0.38,0.25,0.37,True,English,"['Reuters', 'REUTERS', 'Reuters', 'Boston Consulting Group', 'BCG', 'BCG', 'ESG', 'BCG', 'Standard Chartered', 'STAN', 'Odfjell', 'Asyad Group', 'Reuters', 'BCG', 'BCG', 'UN', 'International Maritime Organization', 'IMO', 'IMO', 'BCG', 'Thomson Reuters']",2021-10-19,reuters.com,"['Shipping industry', 'ESG heat', 'lenders', 'Reuters', 'Shipping industry', 'ESG heat', 'lenders', 'Reuters', 'Shipping industry', 'ESG heat', 'lenders', 'Reuters', 'The Thomson Reuters Trust Principles', 'COP26 UN climate summit', 'stricter environmental criteria', 'big pension funds', 'International Maritime Organization', 'overall greenhouse gas', 'UN shipping agency', 'Boston Consulting Group', 'Leading shipping financiers', 'drilling group', 'Asyad Group', 'Matthew Childs', 'CO2 emissions', 'net-zero emissions', 'ESG-driven requests', 'Standard Chartered', 'sustainability targets', 'new assets', 'bigger conduit', 'CO2 reductions', 'insurance companies', 'total amount', 'future fuels', 'Funding sources', 'ESG-related assets', 'GHG) emissions', 'balance sheets', 'Ulrik Sanders', 'managing director', 'Susan Fenton', 'shipping containers', 'shipping companies', 'shipping division', 'investor pressure', 'shareholder pressure', 'Southampton docks', 'world trade', 'total lending', 'industry groups', 'Peter Jameson', 'view', 'Britain', 'Picture', 'drone', 'LONDON', 'Banks', 'sector', 'BCG', 'action', 'partner', 'consultants', 'Oct.', 'STAN.', 'loans', 'Odfjell', 'Oman', 'policies', 'analysts', 'bulk', 'plenty', 'management', 'IMO', 'ships', '2008 levels', 'progress', 'governments', 'risks', 'questions', 'decarbonisation', 'Editing', 'Standards']"
+ESG,PyNews API,https://www.reuters.com/business/sustainable-business/harry-meghan-bet-finance-with-esg-venture-2021-10-12/,Harry and Meghan bet on finance with ESG venture - Reuters,"Britain's Prince Harry and Meghan Markle speak at the 2021 Global Citizen Live concert at Central Park in New York, U.S., September 25, 2021.
+REUTERS/Caitlin OchsOct 12 (Reuters) - Prince Harry and his wife Meghan are joining fintech company Ethic, which invests in the environmental, social and governance-focused (ESG) sector, marking yet another major corporate partnership for the couple.
+The couple became investors in Ethic earlier this year and have investments managed by the company as well, it said in a statement.
+Founded in 2015, Ethic helps investors transition their money toward companies that ""treat people and the planet with respect"".
+Harry and Meghan live in a secluded $14 million mansion in the celebrity enclave of Montecito with their two children, about 80 miles (130 km) north of Los Angeles, which is also home to celebrities including Winfrey and comedian Ellen DeGeneres.","Britain's Prince Harry and Meghan Markle speak at the 2021 Global Citizen Live concert at Central Park in New York, U.S., September 25, 2021. Picture taken September 25, 2021. REUTERS/Caitlin Ochs
+
+Oct 12 (Reuters) - Prince Harry and his wife Meghan are joining fintech company Ethic, which invests in the environmental, social and governance-focused (ESG) sector, marking yet another major corporate partnership for the couple.
+
+The British couple, formally known as the Duke and Duchess of Sussex, have signed a flurry of corporate deals in a bid to make a living for themselves outside the royal family following a split announced last year.
+
+The couple became investors in Ethic earlier this year and have investments managed by the company as well, it said in a statement.
+
+""They're deeply committed to helping address the defining issues of our time - such as climate, gender equity, health, racial justice, human rights, and strengthening democracy ..."" Ethic said in a statement.
+
+Founded in 2015, Ethic helps investors transition their money toward companies that ""treat people and the planet with respect"".
+
+The partnership comes as more entities are forced to consider the climate when investing and traditional investors are increasingly driven by ESG factors that have earlier not been captured in a company's balance sheet.
+
+Harry, a grandson of Queen Elizabeth, had previously teamed up with the Apple TV+ streaming service to make a documentary with Oprah Winfrey about mental health.
+
+The couple has also inked an exclusive multiyear production deal with Netflix Inc (NFLX.O) and have signed up to produce programming for Spotify (SPOT.N) that ""uplifts and entertains audiences around the world"" and features ""diverse perspectives and voices"".
+
+Harry and Meghan live in a secluded $14 million mansion in the celebrity enclave of Montecito with their two children, about 80 miles (130 km) north of Los Angeles, which is also home to celebrities including Winfrey and comedian Ellen DeGeneres.
+
+Reporting by Noor Zainab Hussain in Bengaluru; Editing by Maju Samuel
+
+Our Standards: The Thomson Reuters Trust Principles.",neutral,0.01,0.99,0.0,mixed,0.44,0.23,0.33,True,English,"['Reuters', 'REUTERS', 'Reuters', 'Ethic', 'Ethic', 'Ethic', 'Ethic', 'Apple', 'Netflix Inc', 'NFLX', 'Spotify', 'SPOT', 'Thomson Reuters']",2021-10-12,reuters.com,"['ESG venture', 'Harry', 'Meghan', 'finance', 'Reuters', 'ESG venture', 'Harry', 'Meghan', 'finance', 'Reuters', 'ESG venture', 'Harry', 'Meghan', 'finance', 'Reuters', 'The Thomson Reuters Trust Principles', '2021 Global Citizen Live concert', 'Apple TV+ streaming service', 'exclusive multiyear production deal', 'secluded $14 million mansion', 'Noor Zainab Hussain', 'governance-focused (ESG) sector', 'major corporate partnership', 'corporate deals', 'ESG factors', 'Central Park', 'New York', 'U.S.', 'Caitlin Ochs', 'environmental, social', 'royal family', 'defining issues', 'gender equity', 'racial justice', 'human rights', 'balance sheet', 'Queen Elizabeth', 'Netflix Inc', 'diverse perspectives', 'celebrity enclave', 'two children', 'Los Angeles', 'Ellen DeGeneres', 'Maju Samuel', 'Prince Harry', 'Oprah Winfrey', 'mental health', 'Meghan Markle', 'fintech company', 'traditional investors', 'British couple', 'Britain', 'Picture', 'wife', 'Ethic', 'Duke', 'Duchess', 'Sussex', 'flurry', 'bid', 'living', 'split', 'investments', 'statement', 'time', 'climate', 'democracy', 'money', 'companies', 'people', 'planet', 'respect', 'entities', 'grandson', 'documentary', 'NFLX', 'programming', 'Spotify', 'audiences', 'world', 'voices', 'Montecito', 'celebrities', 'comedian', 'Reporting', 'Bengaluru', 'Editing', 'Standards']"
+ESG,PyNews API,https://www.reuters.com/breakingviews/esg-drills-deeper-into-gulf-oil-ipos-2021-10-04/,ESG drills deeper into Gulf oil IPOs - Reuters,"General view of the port at the Borouge petrochemical facility at ADNOC's Ruwais Industrial Complex in Ruwais, United Arab Emirates May 14, 2018.
+LONDON, Oct 4 (Reuters Breakingviews) - On most counts, the initial public offering of Abu Dhabi National Oil Company’s exploration services subsidiary counts as a success.
+The group’s current $13 billion valuation means it now trades at a slight premium to fellow oil services group Baker Hughes (BKR.N), which retains a 5% stake.
+Aside from ADNOC Drilling’s more appealing valuation, the United Arab Emirates in general carries less baggage as an investment destination for western capital.
+Environmental, social and governance concerns seem to be looming ever larger for western investors.","General view of the port at the Borouge petrochemical facility at ADNOC's Ruwais Industrial Complex in Ruwais, United Arab Emirates May 14, 2018.
+
+LONDON, Oct 4 (Reuters Breakingviews) - On most counts, the initial public offering of Abu Dhabi National Oil Company’s exploration services subsidiary counts as a success. ADNOC Drilling (ADNOCDRILL.AD) priced its enlarged sale of 11% of the company conservatively and was rewarded with a 30% pop on Sunday read more . The group’s current $13 billion valuation means it now trades at a slight premium to fellow oil services group Baker Hughes (BKR.N), which retains a 5% stake.
+
+The successful market debut shrugged off the lack of interest from overseas investors: foreigners bought around 10% of the sale, slightly less than Saudi Aramco (2222.SE) managed to attract in its controversial 2019 IPO. Aside from ADNOC Drilling’s more appealing valuation, the United Arab Emirates in general carries less baggage as an investment destination for western capital. Yet it was still selling shares in a fossil fuel business. Environmental, social and governance concerns seem to be looming ever larger for western investors. (By George Hay)
+
+On Twitter http://twitter.com/breakingviews
+
+Capital Calls - More concise insights on global finance:
+
+Zoom’s doomed deal may have exposed a weakness read more
+
+Merck's $15 bln gain is stingy read more
+
+Tata flies into next chapter with Air India read more
+
+Swedish tech M&A machine risks sputtering read more
+
+Gene sequencing IPO puts some life into London read more
+
+Editing by Peter Thal Larsen and Karen Kwok",neutral,0.01,0.99,0.0,mixed,0.2,0.13,0.67,True,English,"['ESG', 'Reuters', 'ADNOC', 'Reuters', 'Abu Dhabi National Oil Company', 'ADNOC Drilling', 'ADNOCDRILL', 'AD', 'Baker Hughes', 'BKR', 'Saudi Aramco', 'ADNOC Drilling', 'Twitter', 'Zoom', 'Merck', 'Tata', 'Air India', 'M&A']",2021-10-04,reuters.com,"['Gulf oil IPOs', 'ESG', 'Reuters', 'Gulf oil IPOs', 'ESG', 'Reuters', 'Gulf oil IPOs', 'ESG', 'Reuters', 'Swedish tech M&A machine', 'Abu Dhabi National Oil Company', 'fellow oil services group', 'exploration services subsidiary', 'Borouge petrochemical facility', 'United Arab Emirates', 'initial public offering', 'successful market debut', 'fossil fuel business', 'Peter Thal Larsen', 'current $13 billion valuation', 'Gene sequencing IPO', 'Ruwais Industrial Complex', 'controversial 2019 IPO', 'appealing valuation', 'General view', 'most counts', 'slight premium', 'Baker Hughes', 'overseas investors', 'Saudi Aramco', 'less baggage', 'investment destination', 'western capital', 'governance concerns', 'western investors', 'George Hay', 'Capital Calls', 'concise insights', 'global finance', 'doomed deal', '$15 bln gain', 'next chapter', 'Air India', 'Karen Kwok', 'ADNOC Drilling', 'Reuters Breakingviews', 'enlarged sale', 'port', 'LONDON', 'ADNOCDRILL', '30% pop', 'Sunday', 'BKR.', '5% stake', 'lack', 'interest', 'foreigners', 'shares', 'social', 'Twitter', 'Zoom', 'weakness', 'Merck', 'Tata', 'life', 'Editing']"
+ESG,PyNews API,https://www.reuters.com/breakingviews/teslas-move-texas-further-mars-esg-credentials-2021-10-08/,Tesla's move to Texas further mars ESG credentials - Reuters,"MELBOURNE, Oct 8 (Reuters Breakingviews) - Texas is a strange place to put an electric-power champion these days, but Tesla (TSLA.O) boss Elon Musk isn’t exactly known for following convention.
+Musk threatened in May last year to up sticks from the Palo Alto area that has served as Tesla’s base since its founding in 2003.
+File photo: Elon Musk, the chief executive of Tesla Motor, speaks at the South by Southwest Interactive festival in Austin, Texas.
+Moving to Texas further mars Musk’s environmental, social and governance credentials, giving investors increasingly focused on such matters even more reasons to think twice.
+He made the announcement at the company’s annual meeting, which was held at its manufacturing plant under construction in the Texas capital.","MELBOURNE, Oct 8 (Reuters Breakingviews) - Texas is a strange place to put an electric-power champion these days, but Tesla (TSLA.O) boss Elon Musk isn’t exactly known for following convention. He just unveiled plans to relocate the company’s headquarters to Austin. The reasons provided don’t add up, and he probably isn’t escaping the government interference that irked him.
+
+Musk threatened in May last year to up sticks from the Palo Alto area that has served as Tesla’s base since its founding in 2003. The rationale was California’s Covid-19 lockdowns that forced his factory to close, measures he called “fascist”.
+
+Remarks at the annual meeting on Thursday avoided reprising the theme. Instead, Musk linked the decision read more to a lack of space and the cost of living in the Bay Area. Both are valid points, but more for factory workers than well-paid executives. And a head office needn’t be in the same place as what might become its biggest production facility.
+
+There are trade-offs, too. For one thing, Tesla will now be run from a state where its model of selling cars directly to consumers is banned by law as a way of protecting car dealerships. Any Texas residents buying a locally made Model 3 or other vehicle will have to wait until it’s shipped out of state and back first.
+
+Moreover, Texas Governor Greg Abbott’s administration is building a weak track record in green energy. He was one of many right-wing politicians to falsely blame wind power for the state’s electricity generation failure read more in February. He has since pushed to prop up the fossil-fuel industry and load green energy up with more costs.
+
+File photo: Elon Musk, the chief executive of Tesla Motor, speaks at the South by Southwest Interactive festival in Austin, Texas. REUTERS/Gerry Shih
+
+Women’s rights also have suffered under Abbott. He recently signed a bill outlawing abortion after six weeks of pregnancy, a law now being challenged in the courts read more . Abbott has even implied that Musk supports such policies, though the Tesla boss has obliquely denied it.
+
+These dubious policies are at odds with Tesla’s ambition. It already has faced criticism over how it treats workers, including losing a racism lawsuit read more this week. And it has long been blighted by weak corporate controls. Moving to Texas further mars Musk’s environmental, social and governance credentials, giving investors increasingly focused on such matters even more reasons to think twice.
+
+Follow @AntonyMCurrie on Twitter
+
+CONTEXT NEWS
+
+- Tesla Chief Executive Elon Musk said on Oct. 7 said the electric-car maker will move its headquarters to Austin from Palo Alto, California. He made the announcement at the company’s annual meeting, which was held at its manufacturing plant under construction in the Texas capital.
+
+- Tesla has been based in California since it was founded in 2003 by Martin Eberhard and Marc Tarpenning.
+
+Editing by Jeffrey Goldfarb and Katrina Hamlin",neutral,0.02,0.97,0.01,mixed,0.08,0.07,0.85,True,English,"['Tesla', 'ESG', 'Reuters', 'Reuters', 'Tesla', 'TSLA', 'Tesla', 'Tesla', 'Tesla Motor', 'REUTERS', 'Tesla', 'Tesla', 'Twitter', 'Tesla', 'Tesla']",2021-10-08,reuters.com,"['ESG credentials', 'Tesla', 'Texas', 'Reuters', 'ESG credentials', 'Tesla', 'Texas', 'Reuters', 'ESG credentials', 'Tesla', 'Texas', 'Reuters', 'Tesla Chief Executive Elon Musk', 'Texas Governor Greg Abbott', 'biggest production facility', 'weak track record', 'many right-wing politicians', 'electricity generation failure', 'Southwest Interactive festival', 'weak corporate controls', 'boss Elon Musk', 'Palo Alto area', 'Bay Area', 'Tesla boss', 'strange place', 'electric-power champion', 'government interference', 'Covid-19 lockdowns', 'annual meeting', 'valid points', 'head office', 'same place', 'one thing', 'car dealerships', 'other vehicle', 'green energy', 'wind power', 'fossil-fuel industry', 'File photo', 'Gerry Shih', 'six weeks', 'racism lawsuit', 'governance credentials', 'CONTEXT NEWS', 'electric-car maker', 'manufacturing plant', 'Martin Eberhard', 'Marc Tarpenning', 'Jeffrey Goldfarb', 'Katrina Hamlin', 'Texas residents', 'Texas capital', 'Tesla Motor', 'Reuters Breakingviews', 'dubious policies', 'factory workers', 'MELBOURNE', 'TSLA.', 'convention', 'plans', 'company', 'headquarters', 'Austin', 'reasons', 'May', 'sticks', 'base', 'founding', 'rationale', 'California', 'Remarks', 'Thursday', 'theme', 'decision', 'lack', 'space', 'cost', 'executives', 'trade-offs', 'state', 'model', 'cars', 'consumers', 'way', 'administration', 'February', 'Women', 'rights', 'bill', 'abortion', 'pregnancy', 'courts', 'odds', 'ambition', 'criticism', 'social', 'investors', 'matters', 'AntonyMCurrie', 'Twitter', 'Oct.', 'announcement', 'construction', 'Editing']"
+ESG,PyNews API,https://www.reuters.com/legal/legalindustry/secs-esg-disclosure-focus-slighting-real-concerns-2021-09-29/,The SEC's ESG disclosure focus — slighting the real concerns - Reuters,"The seal of the U.S. Securities and Exchange Commission (SEC) is seen at their headquarters in Washington, D.C., U.S., May 12, 2021.
+By engaging in these regulations premised on disclosure, the commission in effect sought to facilitate enhanced corporate governance practices.
+The solution is for the securities laws to timely require, absent the presence of justifiable business reason, the public disclosure of all material information.
+Moreover, many SEC disclosure documents run well over 100 pages, resulting in information overload.
+First, the SEC should undertake an examination of its disclosure rules and minimize requiring disclosure of information that is not material.","The seal of the U.S. Securities and Exchange Commission (SEC) is seen at their headquarters in Washington, D.C., U.S., May 12, 2021. REUTERS/Andrew Kelly/File Photo
+
+September 29, 2021 - From all indications, the U.S. Securities and Exchange Commission under the leadership of Chairman Gary Gensler is making ESG (environmental, social, and governance) disclosures a top priority. Disagreeing with this focus, critics argue that the SEC is stretching its mandate too far afield from the economic materiality mandate that underlies the federal securities law framework.
+
+Yet, what the commission is seeking to bring about, as it has done in earlier eras, is to impact substantive corporate conduct through the guise of disclosure. Dating back to 1961, the SEC sought to impact insider conduct by requiring disclosure of management self-dealing transactions.
+
+And, after the Supreme Court in the 1970s rebuffed efforts to elevate the antifraud provisions to encompass substantive fairness, the SEC adopted a rule requiring disclosure by insiders whether they reasonably believe that a going-private transaction is fair or unfair to unaffiliated shareholders. By engaging in these regulations premised on disclosure, the commission in effect sought to facilitate enhanced corporate governance practices.
+
+The same rationale applies to this latest focus by the commission. Through the requirement of ESG disclosures, the expectation (whether realistic or not) is that publicly held companies will become more sensitized, acting in a more socially conscious manner to protect the environment, promote diversity, and further social awareness — among other objectives.
+
+What is more likely to occur, as it did with the commission's mandate expanding executive remuneration disclosure, is even lengthier disclosure documents exacerbating the information overload problem.
+
+Thus far, the commission is missing the mark. There are real problematic issues that should be addressed. ESG disclosures are mere window-dressing compared to the systematic gaps that currently exist.
+
+In my recent Oxford University Press book ""Rethinking Securities Law,"" I identify 125 recommendations where meaningful reform is needed. A handful of them will be highlighted here. For example, unlike the rule adopted by many developed markets (such as the European Union), a publicly held company has no affirmative duty to disclose under our securities laws all material information to the investing public.
+
+The result is that, without adequate business justification, highly important information can be withheld from the markets. This gap impairs the price efficiency of the securities markets and harms investors. The solution is for the securities laws to timely require, absent the presence of justifiable business reason, the public disclosure of all material information.
+
+As a second example, the status of ""accredited investor"" was adopted by the SEC in Regulation D in 1982. For individuals, it signifies that those persons who have a net worth of $1 million (exclusive of the value of one's principal residence) are irrefutably deemed to have financial sophistication and to have access to registration-type information. The consequence is that in specified exempt offerings, such as Rule 506 offerings, no disclosure is required to be made to such individuals.
+
+Clearly, many of these individuals lack financial sophistication, having reached the $1 million net worth status through, for example, retirement plans, inheritance, or appreciation of personal assets. While the commission should thoroughly reconsider the propriety of accredited investor application, the immediate focus should be on increasing the $1 million net worth level to 2021 dollars adjusted for inflation.
+
+As the commission itself recently admitted, it has declined to do so fearful that such an increase would impede private capital raising. While promoting private capital raising may be a legitimate objective for the commission, it should not outweigh the SEC's investor protection mandate.
+
+Moreover, many SEC disclosure documents run well over 100 pages, resulting in information overload. Relatively few individuals and even organizations have the wherewithal to studiously review these documents.
+
+Two measures, among others, should be adopted. First, the SEC should undertake an examination of its disclosure rules and minimize requiring disclosure of information that is not material. Second, a comprehensive Summary Section should be required for specified SEC filings, such as for registration statements, proxy statements, and quarterly and annual reports.
+
+The inclusion of a mandatory Summary Section contained in the front part of these SEC filings should improve the disclosure process and provide ordinary investors with better access to important information — thereby enabling them to make more informed investment and voting decisions.
+
+As a last example, the U.S. law of insider trading is abysmal. Inconsistencies prevail resulting in disparate treatment for similarly situated persons. Understandably, no other developed market has opted to adopt our approach to insider trading.
+
+Two recommendations are made here. First, a comprehensive ""access"" approach should be enacted, prohibiting those who have unequal access to material nonpublic information from trading on or tipping that information to others.
+
+Second, because insiders always have more information about their companies than outsiders, officers and directors should be required before they trade (rather than afterward which is the current rule) to file a Form with the SEC that is made publicly available.
+
+If the transaction is otherwise permissible, they may then trade their company's securities one business day after filing. As fiduciaries, insiders should not be permitted to be at the front of the line (even with respect to supposedly ""non-material"" information) and relegate shareholders and the investing public to the back of the queue.
+
+There is much meaningful work for the SEC to undertake. The question is whether the members of the commission will have the wherewithal to implement much-needed reform of our securities laws.
+
+Opinions expressed are those of the author. They do not reflect the views of Reuters News, which, under the Trust Principles, is committed to integrity, independence, and freedom from bias. Westlaw Today is owned by Thomson Reuters and operates independently of Reuters News.",neutral,0.01,0.63,0.36,mixed,0.1,0.15,0.75,True,English,"['SEC', 'Reuters', 'U', 'Securities and Exchange Commission', 'SEC', 'REUTERS', 'U.S.', 'Securities and Exchange Commission', 'SEC', 'SEC', 'Supreme Court', 'SEC', 'ESG', 'ESG', 'Oxford University Press', 'European Union', 'SEC', 'SEC', 'SEC', 'SEC', 'SEC', 'SEC']",2021-09-29,reuters.com,"['ESG disclosure focus', 'The SEC', 'real concerns', 'Reuters', 'ESG disclosure focus', 'The SEC', 'real concerns', 'Reuters', 'ESG disclosure focus', 'The SEC', 'real concerns', 'Reuters', 'recent Oxford University Press book', '$1 million net worth level', 'federal securities law framework', '$1 million net worth status', 'many SEC disclosure documents', 'Chairman Gary Gensler', 'management self-dealing transactions', 'real problematic issues', 'adequate business justification', 'justifiable business reason', 'comprehensive Summary Section', 'mandatory Summary Section', 'private capital raising', 'many developed markets', 'U.S. law', 'other developed market', 'accredited investor application', 'U.S. Securities', 'economic materiality mandate', 'substantive corporate conduct', 'corporate governance practices', 'executive remuneration disclosure', 'investor protection mandate', 'lengthier disclosure documents', 'information overload problem', 'private transaction', 'securities laws', 'securities markets', 'insider conduct', 'substantive fairness', 'other objectives', 'D.C.', 'Andrew Kelly', 'File Photo', 'environmental, social', 'top priority', 'earlier eras', 'Supreme Court', 'antifraud provisions', 'unaffiliated shareholders', 'same rationale', 'conscious manner', 'social awareness', 'systematic gaps', 'meaningful reform', 'European Union', 'affirmative duty', 'material information', 'investing public', 'important information', 'price efficiency', 'Regulation D', 'principal residence', 'financial sophistication', 'registration-type information', 'exempt offerings', 'retirement plans', 'personal assets', 'legitimate objective', 'Two measures', 'registration statements', 'proxy statements', 'annual reports', 'front part', 'informed investment', 'voting decisions', 'insider trading', 'disparate treatment', 'public disclosure', 'disclosure rules', 'disclosure process', 'latest focus', 'immediate focus', 'second example', 'SEC filings', 'ordinary investors', 'last example', 'ESG disclosures', 'Rule 506 offerings', 'Exchange Commission', 'seal', 'headquarters', 'Washington', 'REUTERS', 'indications', 'leadership', 'critics', 'guise', '1970s', 'efforts', 'insiders', 'regulations', 'effect', 'enhanced', 'requirement', 'expectation', 'companies', 'diversity', 'window-dressing', 'Rethinking', '125 recommendations', 'handful', 'company', 'result', 'highly', 'solution', 'presence', 'individuals', 'persons', 'value', 'access', 'consequence', 'inheritance', 'appreciation', 'propriety', '2021 dollars', 'inflation', 'increase', '100 pages', 'organizations', 'wherewithal', 'others', 'examination', 'quarterly', 'inclusion', 'Inconsistencies']"
+ESG,PyNews API,https://www.reuters.com/business/sustainable-business/calpers-carlyle-lead-global-push-esg-reporting-2021-09-30/,"CalPERS, Carlyle lead global push on ESG reporting - Reuters","A Carlyle group logo is pictured at One Vanderbilt , New York, U.S., September 15, 2021.
+Carlyle Group/Handout via REUTERSSept 30 (Reuters) - A group of global private equity firms and pensions funds managing over $4 trillion in assets said on Thursday they have agreed to standardize reporting on environmental, social and corporate governance (ESG) performance of portfolio companies.
+No universally acceptable way of producing ESG metrics exists, leaving investors scrambling to sort through different data from companies as well as disparate scores from ESG rating firms and an alphabet soup of acronyms representing different reporting standards.
+""We have found it challenging to effectively measure impact in our private equity portfolio because of the multitude of frameworks and definitions used,"" said Marcie Frost, chief executive officer of CalPERS, which is the largest U.S. public pension fund.
+Under the initiative, private equity firms will gather and report ESG metrics from their portfolio companies, starting from this year.","A Carlyle group logo is pictured at One Vanderbilt , New York, U.S., September 15, 2021. Picture taken September 15, 2021. Carlyle Group/Handout via REUTERS
+
+Sept 30 (Reuters) - A group of global private equity firms and pensions funds managing over $4 trillion in assets said on Thursday they have agreed to standardize reporting on environmental, social and corporate governance (ESG) performance of portfolio companies.
+
+The group, led by Carlyle Group (CG.O) and the California Public Employees' Retirement System (CalPERS), will track data on greenhouse gas emissions, renewable energy, board diversity and other metrics of companies in their portfolio.
+
+The partnership comes at a time when companies, investors and regulators are increasingly asking for more sustainable and inclusive ways of conducting business amid a diversity push and concerns over climate change.
+
+No universally acceptable way of producing ESG metrics exists, leaving investors scrambling to sort through different data from companies as well as disparate scores from ESG rating firms and an alphabet soup of acronyms representing different reporting standards.
+
+""We have found it challenging to effectively measure impact in our private equity portfolio because of the multitude of frameworks and definitions used,"" said Marcie Frost, chief executive officer of CalPERS, which is the largest U.S. public pension fund.
+
+The investor group also includes Canada Pension Plan Investment Board (CPPIB), Blackstone Inc (BX.N), Sweden's EQT AB (EQTAB.ST), Permira and CVC Capital Partners.
+
+Under the initiative, private equity firms will gather and report ESG metrics from their portfolio companies, starting from this year. Boston Consulting Group, a consulting firm, will aggregate the data into an anonymized benchmark.
+
+The founding group plans to meet on an annual basis to assess prior year's data and build on initial metrics, the statement said.
+
+""We were all marching in different directions to achieve similar aims,"" Megan Starr, Carlyle's global head of impact, said in an interview. ""This is actually performance data from the companies themselves and it's not fundamentally competitive with anything that's in the market.”
+
+The group said it will be open to any other private equity firm or investor wishing to join and contribute to its work.
+
+Reporting by Sohini Podder in Bengaluru and Chibuike Oguh in New York; Editing by Saumyadeb Chakrabarty and Marguerita Choy
+
+Our Standards: The Thomson Reuters Trust Principles.",neutral,0.0,1.0,0.0,negative,0.12,0.18,0.7,True,English,"['CalPERS', 'Carlyle', 'ESG', 'Reuters', 'Carlyle group', 'Carlyle Group', 'REUTERS', 'Reuters', 'Carlyle Group', 'O', ""California Public Employees' Retirement System"", 'CalPERS', 'CalPERS', 'Canada Pension Plan Investment Board', 'CPPIB', 'Blackstone Inc', 'BX', 'Permira', 'CVC Capital Partners', 'Boston Consulting Group', 'Carlyle', 'Thomson Reuters']",2021-09-30,reuters.com,"['global push', 'ESG reporting', 'CalPERS', 'Carlyle', 'Reuters', 'global push', 'ESG reporting', 'CalPERS', 'Carlyle', 'Reuters', 'global push', 'ESG reporting', 'CalPERS', 'Carlyle', 'Reuters', 'largest U.S. public pension fund', ""California Public Employees' Retirement System"", 'Canada Pension Plan Investment Board', 'The Thomson Reuters Trust Principles', 'global private equity firms', 'other private equity firm', 'A Carlyle group logo', 'greenhouse gas emissions', 'private equity portfolio', 'chief executive officer', 'CVC Capital Partners', 'ESG rating firms', 'Boston Consulting Group', 'different reporting standards', 'board diversity', 'consulting firm', 'other metrics', 'global head', 'ESG metrics', 'different directions', 'Carlyle Group/Handout', 'One Vanderbilt', 'New York', 'pensions funds', 'environmental, social', 'corporate governance', 'CG.O', 'renewable energy', 'inclusive ways', 'diversity push', 'climate change', 'acceptable way', 'disparate scores', 'alphabet soup', 'Marcie Frost', 'Blackstone Inc', 'EQT AB', 'anonymized benchmark', 'founding group', 'annual basis', 'initial metrics', 'similar aims', 'Megan Starr', 'Sohini Podder', 'Chibuike Oguh', 'Saumyadeb Chakrabarty', 'Marguerita Choy', 'different data', 'investor group', 'prior year', 'portfolio companies', 'performance data', 'Picture', 'assets', 'Thursday', 'CalPERS', 'partnership', 'time', 'investors', 'regulators', 'sustainable', 'business', 'concerns', 'acronyms', 'impact', 'multitude', 'frameworks', 'definitions', 'CPPIB', 'BX', 'Sweden', 'EQTAB', 'Permira', 'initiative', 'statement', 'interview', 'market', 'Bengaluru', 'Editing']"
+ESG,PyNews API,https://www.reuters.com/legal/legalindustry/esg-is-mission-critical-can-paul-weiss-get-law-schools-board-2021-10-04/,"ESG is 'mission critical.' Can Paul, Weiss get law schools on board? - Reuters","The research, polling and discussions that the Paul Weiss ESG and Law Institute produces will be publicly available, Curran said, noting that the field is evolving rapidly.
+Paul Weiss launched its dedicated ESG practice in March of 2020.
+Beyond Berkeley Law, few law schools offer ESG courses other than an occasional class taught by an adjunct, Curran said.
+“We want the legal industry to recognize that it’s mission critical for lawyers to deeply understand ESG and how it intersects with the law,” Curran said.
+Read more:We put these ESG lawyers to the testBig Law bets that ESG trend is here to stay with fresh moves by Orrick, Seyfarth","The Paul, Weiss, Rifkind, Wharton & Garrison LLP office in Washington, D.C., U.S. REUTERS/Andrew Kelly
+
+Summary
+
+Summary Companies
+
+Companies Law firms Firm is launching an ESG institute with UC Berkeley Law
+
+It plans to get more law schools involved in ESG research The company and law firm names shown above are generated automatically based on the text of the article. We are improving this feature as we continue to test and develop in beta. We welcome feedback, which you can provide using the feedback tab on the right of the page.
+
+Oct 4 - Paul, Weiss, Rifkind, Wharton & Garrison has teamed up with the University of California, Berkeley School of Law to launch a first-of-its kind research initiative centered on ESG — the rapidly growing legal field of environmental, social and governance issues.
+
+As the first partner school in the firm’s ESG and Law Institute, students and professors associated with Berkeley Law’s Business and Society Institute will work with Paul Weiss attorneys to conduct research, convene roundtables and assemble thought leaders in the ESG arena. Paul Weiss will provide two annual $25,000 scholarships to Berkeley students involved in the new institute in the hopes that they will help establish a cohort of young lawyers who are well versed in the many aspects of ESG practice. The firm plans to expand the institute and involve more law schools in the future.
+
+The Berkeley partnership also reflects Paul Weiss' recent Bay Area expansion. The firm launched a Northern California office in July 2020. It now has 17 attorneys.
+
+Institute director Dave Curran, who is also co-chair of Paul Weiss’ ESG advisory practice, said the institute will tackle the big picture, “existential” questions surrounding ESG in a way that lawyers advising clients on day-to-day matters don’t have the capacity to contemplate. And it will bring academic rigor to the conversation around ESG, he said.
+
+“We need a way to convene thought leadership at an elevated and expanded level that I can’t simply do in running a practice,” Curran said. “We also need to involve a broader community, including academics.”
+
+Amelia Miazad, faculty director of Berkeley Law’s Business in Society Institute, said she envisions the new partnership with Paul Weiss bridging the gap between theoretical discussions about ESG and what’s actually happening within companies. Current ESG research tends to fall into either a very practical category like corporate case studies, or very theoretical law review articles.
+
+“What’s exciting here is that we can do something that is really framed for executives and professionals but still leverages that academic rigor and research,” Miazad said.
+
+The research, polling and discussions that the Paul Weiss ESG and Law Institute produces will be publicly available, Curran said, noting that the field is evolving rapidly. Paul Weiss launched its dedicated ESG practice in March of 2020. Kirkland & Ellis; Akin Gump Strauss Hauer & Feld; Norton Rose Fulbright; and Shearman & Sterling were among the earliest firms to launch ESG practices.
+
+“ESG has been around forever,” Curran said. “The difference in the last two years is lawyers recognizing that companies making obligations like social or environmental commitments have to actually live up to those commitments.”
+
+Paul Weiss and its chairman Brad Karp have been notably vocal about social and political issues such as marriage equality, voter protection and reproductive rights. But the firm has also been targeted by critics who say its representation of fossil fuel clients makes it complicit in climate change.
+
+Both Curran and Miazad said they hope the new institute will prompt law schools to incorporate more ESG training into their curriculum. Beyond Berkeley Law, few law schools offer ESG courses other than an occasional class taught by an adjunct, Curran said.
+
+“We want the legal industry to recognize that it’s mission critical for lawyers to deeply understand ESG and how it intersects with the law,” Curran said. “We need students to be thinking about it. This is the fastest growing specialty that no one knows about.”
+
+(Correction: This story has been updated to clarify that other firms also had dedicated ESG practices when Paul Weiss launched its practice last year.)
+
+Read more:
+
+We put these ESG lawyers to the test
+
+Big Law bets that ESG trend is here to stay with fresh moves by Orrick, Seyfarth",negative,0.04,0.18,0.78,mixed,0.58,0.1,0.32,True,English,"['ESG', 'Reuters', 'Paul, Weiss, Rifkind, Wharton & Garrison LLP', 'REUTERS', 'ESG', 'UC Berkeley Law', 'ESG', 'Paul, Weiss', 'Wharton & Garrison', 'University of California, Berkeley School of Law', 'ESG', 'Law Institute', 'Berkeley Law’s Business and Society Institute', 'ESG', 'Berkeley', 'ESG', 'Berkeley', 'ESG', 'ESG', 'ESG', 'Berkeley Law’s Business in Society Institute', 'ESG', 'ESG', 'Paul Weiss ESG and Law Institute', 'Kirkland & Ellis', 'Akin Gump Strauss Hauer & Feld', 'Shearman & Sterling', 'ESG', 'ESG', 'Berkeley Law', 'ESG', 'ESG', 'ESG']",2021-10-04,reuters.com,"['law schools', 'ESG', 'Paul', 'Weiss', 'board', 'Reuters', 'law schools', 'ESG', 'Paul', 'Weiss', 'board', 'Reuters', 'law schools', 'ESG', 'Paul', 'Weiss', 'board', 'Reuters', 'Summary Companies\n\nCompanies Law firms Firm', 'recent Bay Area expansion', 'Akin Gump Strauss Hauer', 'Paul Weiss’ ESG advisory practice', 'theoretical law review articles', 'U.S. REUTERS', 'two annual $25,000 scholarships', 'corporate case studies', 'Norton Rose Fulbright', 'last two years', 'fastest growing specialty', 'first partner school', 'Big Law bets', 'Garrison LLP office', 'Northern California office', 'fossil fuel clients', 'UC Berkeley Law', 'law firm names', 'growing legal field', 'dedicated ESG practice', 'Law Institute produces', 'The Berkeley partnership', 'Paul Weiss attorneys', 'Current ESG research', 'Paul Weiss ESG', 'earliest firms', 'other firms', 'The Paul', 'Berkeley School', 'law schools', 'new partnership', 'theoretical discussions', 'legal industry', 'D.C.', 'Andrew Kelly', 'governance issues', 'thought leaders', 'many aspects', 'existential” questions', 'academic rigor', 'expanded level', 'broader community', 'faculty director', 'practical category', 'Brad Karp', 'political issues', 'marriage equality', 'voter protection', 'reproductive rights', 'climate change', 'occasional class', 'fresh moves', 'ESG arena', 'ESG practices', 'ESG training', 'ESG courses', 'ESG trend', 'new institute', 'Institute director', 'ESG institute', 'research initiative', 'Berkeley students', 'feedback tab', 'day matters', 'environmental commitments', 'young lawyers', 'ESG lawyers', 'Amelia Miazad', 'Society Institute', 'Dave Curran', 'Both Curran', '17 attorneys', 'Rifkind', 'Wharton', 'Washington', 'company', 'text', 'feature', 'beta', 'page', 'Oct', 'University', 'social', 'professors', 'Business', 'roundtables', 'hopes', 'cohort', 'future', 'July', 'chair', 'way', 'capacity', 'conversation', 'elevated', 'academics', 'gap', 'something', 'executives', 'professionals', 'polling', 'March', 'Kirkland', 'Ellis', 'Feld', 'Shearman', 'Sterling', 'difference', 'obligations', 'critics', 'representation', 'curriculum', 'adjunct', 'one', 'Correction', 'story', 'Orrick', 'Seyfarth']"
+ESG,PyNews API,https://www.businessinsider.com/moodys-launches-esg-screening-tool-2021-10,Moody's rolls out ESG screening tool amid widening compliance obligations,"Moody's ESG solutions arm launches a tool to help firms comply with EU taxonomy regulation.
+The demand comes in response to recent mandates that corporations disclose nonfinancial ESG performance metrics.
+The ESG solutions arm of data and analytics giant Moody's launched a tool that helps investment firms comply with the European Union's (EU) taxonomy regulation, per Business Wire.
+The EU taxonomy directs investments toward sustainable businesses by classifying economic activities that are deemed environmentally friendly.
+Rising demand for ESG investing represents one of the few remaining pockets of growth for investment managers, who can charge higher fees for this more nascent strategy.","Moody's ESG solutions arm launches a tool to help firms comply with EU taxonomy regulation.
+
+The demand comes in response to recent mandates that corporations disclose nonfinancial ESG performance metrics.
+
+Insider Intelligence publishes hundreds of insights, charts, and forecasts on the Fintech industry. Learn more about becoming a client.
+
+The ESG solutions arm of data and analytics giant Moody's launched a tool that helps investment firms comply with the European Union's (EU) taxonomy regulation, per Business Wire.
+
+The EU taxonomy came into force in July last year and aims to help the EU meet climate and energy targets for 2030 and the objectives of the European Green Deal by creating a common definition of ""sustainable.""
+
+The EU taxonomy directs investments toward sustainable businesses by classifying economic activities that are deemed environmentally friendly.
+
+Moody's solution will help market participants navigate the regulation by screening companies and activities against the requirements.
+
+Large players like Moody's developing environmental, social, and governance (ESG) compliance solutions that investment managers can plug and play will be in high demand, given the splurge of related regulations—but smaller fintechs also have a golden opportunity to scale with innovative tools.
+
+In response to allegations of rampant greenwashing , the EU widened its ESG regulatory regime, mandating that corporations disclose nonfinancial ESG performance metrics and making financial market participants disclose sustainability metrics like greenhouse gas emissions.
+
+And with the SEC expected to follow suit imminently, meeting the new regulatory requirements will be a leading priority for investment managers over the next year.
+
+The shift to passive investment strategies is shrinking margins. Rising demand for ESG investing represents one of the few remaining pockets of growth for investment managers, who can charge higher fees for this more nascent strategy.
+
+Fintechs can provide solutions and data to help US investment managers navigate the expanding regulatory requirements and scoop up a slice of the $20 trillion in global AUM that will be created by 2025.
+
+We expect large data providers like Refinitiv to grab the majority of the new business. But smaller fintechs can also tailor solutions to the new regulatory developments.
+
+Want to read more stories like this one? Here's how you can gain access:",neutral,0.06,0.61,0.33,mixed,0.41,0.17,0.42,True,English,"[""Moody's"", 'Moody', 'EU', 'Insider Intelligence', ""Moody's"", 'European Union', 'EU', 'Business Wire', 'EU', 'EU', 'EU', ""Moody's"", 'Moody', 'EU', 'SEC', 'ESG', 'Refinitiv']",2021-10-22,businessinsider.com,"['ESG screening tool', 'widening compliance obligations', 'Moody', 'ESG screening tool', 'widening compliance obligations', 'Moody', 'ESG screening tool', 'widening compliance obligations', 'Moody', 'nonfinancial ESG performance metrics', 'The ESG solutions arm', 'ESG regulatory regime', 'greenhouse gas emissions', 'ESG) compliance solutions', 'new regulatory developments', 'European Green Deal', 'passive investment strategies', 'expanding regulatory requirements', 'financial market participants', 'new regulatory requirements', 'US investment managers', 'analytics giant Moody', 'large data providers', 'EU taxonomy regulation', 'sustainability metrics', 'ESG investing', 'new business', 'European Union', 'Large players', 'recent mandates', 'Insider Intelligence', 'Fintech industry', 'Business Wire', 'energy targets', 'common definition', 'sustainable businesses', 'related regulations', 'golden opportunity', 'innovative tools', 'rampant greenwashing', 'leading priority', 'next year', 'remaining pockets', 'higher fees', 'nascent strategy', 'global AUM', 'investment firms', 'high demand', 'smaller fintechs', 'Rising demand', 'economic activities', 'response', 'corporations', 'hundreds', 'insights', 'charts', 'forecasts', 'client', 'force', 'July', 'climate', 'objectives', 'investments', 'companies', 'governance', 'splurge', 'allegations', 'SEC', 'shift', 'margins', 'growth', 'slice', 'Refinitiv', 'majority', 'stories', 'one', 'access']"
+ESG,PyNews API,https://www.reuters.com/world/americas/mexicos-alpek-aims-wipe-out-its-greenhouse-gas-emissions-by-2050-2021-10-14/,Mexico's Alpek aims to wipe out its greenhouse gas emissions by 2050 - Reuters,"MEXICO CITY, Oct 14 (Reuters) - Mexican petrochemical company Alpek, one of the largest producers of polyethylene terephthalate (PET) in the Americas, on Thursday said it will seek to eliminate net greenhouse gas emissions from its global operations by 2050.
+Alpek (ALPEKA.MX), a subsidiary of conglomerate Alfa (ALFAA.MX), said it developed the goal after a 12-week review of its efforts around environmental, social and corporate governance (ESG) targets.
+Among its objectives, Alpek aims to boost recycling of PET bottles to 300,000 metric tons by 2025 and reach carbon neutrality by 2050, it said in a statement.
+As well, the company said it would strive to reduce the number of worker accidents to zero, increase the diversity of its board members and more frequently review ESG metrics.
+Alpek's full list of ESG targets can be found here: alpek.com/ESG/TargetsReporting by Daina Beth Solomon and Diego Ore; editing by Richard PullinOur Standards: The Thomson Reuters Trust Principles.","MEXICO CITY, Oct 14 (Reuters) - Mexican petrochemical company Alpek, one of the largest producers of polyethylene terephthalate (PET) in the Americas, on Thursday said it will seek to eliminate net greenhouse gas emissions from its global operations by 2050.
+
+Alpek (ALPEKA.MX), a subsidiary of conglomerate Alfa (ALFAA.MX), said it developed the goal after a 12-week review of its efforts around environmental, social and corporate governance (ESG) targets.
+
+Among its objectives, Alpek aims to boost recycling of PET bottles to 300,000 metric tons by 2025 and reach carbon neutrality by 2050, it said in a statement.
+
+As well, the company said it would strive to reduce the number of worker accidents to zero, increase the diversity of its board members and more frequently review ESG metrics.
+
+Alpek's full list of ESG targets can be found here: alpek.com/ESG/Targets
+
+Reporting by Daina Beth Solomon and Diego Ore; editing by Richard Pullin
+
+Our Standards: The Thomson Reuters Trust Principles.",neutral,0.0,1.0,0.0,negative,0.0,0.0,1.0,True,English,"['Alpek', 'Reuters', 'Reuters', 'Alpek', 'MX', 'Alfa', 'ALFAA', 'MX', 'Alpek', 'Alpek', 'Thomson Reuters']",2021-10-14,reuters.com,"['greenhouse gas emissions', 'Mexico', 'Alpek', 'Reuters', 'greenhouse gas emissions', 'Mexico', 'Alpek', 'Reuters', 'greenhouse gas emissions', 'Mexico', 'Alpek', 'Reuters', 'The Thomson Reuters Trust Principles', 'net greenhouse gas emissions', 'Daina Beth Solomon', 'Mexican petrochemical company', 'MEXICO CITY', 'largest producers', 'polyethylene terephthalate', 'global operations', 'conglomerate Alfa', '12-week review', 'corporate governance', 'ESG) targets', '300,000 metric tons', 'carbon neutrality', 'worker accidents', 'board members', 'ESG metrics', 'full list', 'ESG targets', 'Diego Ore', 'Richard Pullin', 'PET bottles', 'Alpek', 'Americas', 'Thursday', 'MX', 'subsidiary', 'ALFAA.', 'goal', 'efforts', 'social', 'objectives', 'recycling', 'statement', 'number', 'diversity', 'ESG/Targets', 'Reporting', 'editing', 'Standards']"
+ESG,PyNews API,https://www.reuters.com/world/asia-pacific/japans-finance-ministry-use-foreign-reserves-esg-investments-2021-10-08/,Japan's finance ministry to use foreign reserves for ESG investments - Reuters,"""Revitalising new ESG investment will help achieve a greener society and carbon neutrality in 2050,"" Suzuki said.
+""As the ESG bond market grows, I believe investment in ESG bonds will increase from now on.""
+The minister expected Japan to be the first Group of Seven (G7) government to use foreign reserves for ESG investments, and he hoped others would follow.
+read moreStanding at $1.4 trillion, Japan's foreign reserves are second only to China's.
+The MOF's special account that manages foreign reserves tends to make profits, which often use to fund supplementary budgets.","Japanese national flags flutter in front of buildings at Tokyo's business district in Japan, February 22, 2016. REUTERS/Toru Hanai/Files
+
+Summary Japan becomes first among G7 to invest FX reserves in ESG
+
+ESG bond investment seen to grow as the market expands
+
+Hopes ESG investment to make FX reserves management sustainable
+
+TOKYO, Oct 8 (Reuters) - Japan will start using foreign reserves to buy securities that meet environmental, social and governance (ESG) criteria, Finance Minister Shunichi Suzuki said on Friday, joining a trend among global investors to focus on combating climate change.
+
+""Revitalising new ESG investment will help achieve a greener society and carbon neutrality in 2050,"" Suzuki said. ""As the ESG bond market grows, I believe investment in ESG bonds will increase from now on.""
+
+The minister expected Japan to be the first Group of Seven (G7) government to use foreign reserves for ESG investments, and he hoped others would follow.
+
+InJuly, the Bank of Japan said it would start buying green bonds, joining other major central banks that have begun using their institutional heft to help tackle the issue of global warming. read more
+
+Standing at $1.4 trillion, Japan's foreign reserves are second only to China's. The MOF's special account that manages foreign reserves tends to make profits, which often use to fund supplementary budgets.
+
+Japan will deliver a message on the ESG investment plan to other members of the Group of 20 major economies when they meet in Washington next week, he added.
+
+Reporting by Tetsushi Kajimoto; Editing by Mark Potter & Simon Cameron-Moore
+
+Our Standards: The Thomson Reuters Trust Principles.",neutral,0.01,0.98,0.01,positive,0.81,0.04,0.15,True,English,"['finance ministry', 'Reuters', 'REUTERS', 'G7', 'ESG', 'ESG', 'ESG', 'Reuters', 'ESG', 'ESG', 'ESG', 'Group of Seven', 'G7)', 'Bank of Japan', 'MOF', 'ESG', 'Thomson Reuters']",2021-10-08,reuters.com,"['finance ministry', 'foreign reserves', 'ESG investments', 'Japan', 'Reuters', 'finance ministry', 'foreign reserves', 'ESG investments', 'Japan', 'Reuters', 'finance ministry', 'foreign reserves', 'ESG investments', 'Japan', 'Reuters', 'The Thomson Reuters Trust Principles', 'other major central banks', 'Finance Minister Shunichi Suzuki', 'Japanese national flags', 'Toru Hanai/Files\n\nSummary', 'ESG bond investment', 'new ESG investment', 'ESG investment plan', 'FX reserves management', 'ESG bond market', 'The MOF', 'other members', '20 major economies', 'ESG) criteria', 'ESG bonds', 'ESG investments', 'foreign reserves', 'business district', 'environmental, social', 'global investors', 'climate change', 'greener society', 'carbon neutrality', 'green bonds', 'institutional heft', 'global warming', 'special account', 'supplementary budgets', 'Tetsushi Kajimoto', 'Mark Potter', 'Simon Cameron-Moore', 'first Group', 'G7) government', 'front', 'buildings', 'Tokyo', 'February', 'securities', 'governance', 'Friday', 'trend', 'others', 'InJuly', 'issue', 'China', 'profits', 'message', 'Washington', 'Reporting', 'Editing', 'Standards']"
+ESG,PyNews API,https://www.reuters.com/article/saudi-investment-esg-idUSL1N2QT0M8,UPDATE 1-Saudi Arabia plans to issue green bonds soon to advance ESG plans - Reuters,"A Saudi money exchanger wears gloves as he counts Saudi riyal currency at a currency exchange shop in Riyadh, Saudi Arabia March 10, 2020.
+REUTERS/Ahmed YosriRIYADH, Sept 27 (Reuters) - Saudi Arabia plans to issue green bonds soon, an official said on Monday, as the oil-producing kingdom seeks to embrace environmental, social and governance (ESG) concerns to expand its investor base and finance a transition to a greener economy.
+The Gulf has seen a surge of interest in ESG-related initiatives and deals amid growing awareness among global investors about ESG risks.
+Saudi Arabia has recently hired banks to advise it on a sustainability financing framework, and sovereign fund Public Investment Fund said it planned to announce soon its first green debt deal.
+Reporting by Raya Jalabi, writing by Davide Barbuscia; Editing by Hugh Lawson, William MacleanOur Standards: The Thomson Reuters Trust Principles.","A Saudi money exchanger wears gloves as he counts Saudi riyal currency at a currency exchange shop in Riyadh, Saudi Arabia March 10, 2020. REUTERS/Ahmed Yosri
+
+RIYADH, Sept 27 (Reuters) - Saudi Arabia plans to issue green bonds soon, an official said on Monday, as the oil-producing kingdom seeks to embrace environmental, social and governance (ESG) concerns to expand its investor base and finance a transition to a greener economy.
+
+Hani Al-Medaini, acting chief executive officer of the Finance Ministry's National Debt Management Center, said the government will also be looking at financing backed by export credit agencies, in addition to conventional and Islamic bonds.
+
+He was speaking at an investment conference in Riyadh.
+
+The Gulf has seen a surge of interest in ESG-related initiatives and deals amid growing awareness among global investors about ESG risks.
+
+Saudi Arabia has recently hired banks to advise it on a sustainability financing framework, and sovereign fund Public Investment Fund said it planned to announce soon its first green debt deal. read more
+
+Mohammed El-Kuwaiz, the chairman of Saudi Arabia's Capital Markets Authority, speaking at the same conference, said on Monday he expected an increase in green financing instruments in the kingdom, supported by growth in the domestic debt markets and higher participation of foreign investors.
+
+Reporting by Raya Jalabi, writing by Davide Barbuscia; Editing by Hugh Lawson, William Maclean
+
+Our Standards: The Thomson Reuters Trust Principles.",neutral,0.02,0.85,0.13,mixed,0.23,0.28,0.49,True,English,"['ESG', 'Reuters', 'REUTERS', 'Reuters', 'Finance Ministry', 's', 'National Debt Management Center', 'Public Investment Fund', 'Capital Markets Authority', 'Thomson Reuters']",2021-09-27,reuters.com,"['Saudi Arabia', 'green bonds', 'ESG plans', 'UPDATE', 'Reuters', 'Saudi Arabia', 'green bonds', 'ESG plans', 'UPDATE', 'Reuters', 'Saudi Arabia', 'green bonds', 'ESG plans', 'UPDATE', 'Reuters', 'The Thomson Reuters Trust Principles', 'acting chief executive officer', 'National Debt Management Center', 'first green debt deal', 'domestic debt markets', 'currency exchange shop', 'export credit agencies', 'Capital Markets Authority', 'Saudi money exchanger', 'Saudi riyal currency', 'sustainability financing framework', 'green financing instruments', 'Public Investment Fund', 'The Gulf', 'green bonds', 'investment conference', 'sovereign fund', 'Saudi Arabia', 'Ahmed Yosri', 'ESG) concerns', 'investor base', 'greener economy', 'Hani Al-Medaini', 'Finance Ministry', 'Islamic bonds', 'ESG-related initiatives', 'growing awareness', 'global investors', 'ESG risks', 'Mohammed El-Kuwaiz', 'same conference', 'higher participation', 'foreign investors', 'Raya Jalabi', 'Davide Barbuscia', 'Hugh Lawson', 'William Maclean', 'oil-producing kingdom', 'gloves', 'Riyadh', 'official', 'Monday', 'social', 'governance', 'transition', 'government', 'addition', 'conventional', 'surge', 'interest', 'deals', 'banks', 'chairman', 'increase', 'growth', 'Editing', 'Standards']"
+ESG,PyNews API,https://www.reuters.com/world/uk/nearly-half-ftse-100-companies-have-no-net-zero-target-arabesque-says-2021-10-20/,"Nearly half of FTSE 100 companies have no net-zero target, Arabesque says - Reuters","REUTERS/Suzanne Plunkett/File Photo/File PhotoLONDON, Oct 20 (Reuters) - Nearly half of the 100 biggest companies listed on Britain's FTSE Index have no net-zero target at all and just 23 have a scientifically approved plan, according to ESG investment research and asset manager Arabesque.
+Arabesque research found that 45 companies on the FTSE-100 Index had no net zero target.
+The research found that 28 FTSE companies are on course to contribute to a global temperature rise of 2.7 degrees Celsius or above by 2050.
+""These findings show a wide gulf between where the FTSE 100 stands today, and where it needs to be to deliver on the UK’s net zero target,"" Daniel Klier, president of Arabesque, said.
+The worst performing companies, according to Arabesque, were miners and energy companies.","The Canary Wharf financial district is seen in east London November 12, 2014. REUTERS/Suzanne Plunkett/File Photo/File Photo
+
+LONDON, Oct 20 (Reuters) - Nearly half of the 100 biggest companies listed on Britain's FTSE Index have no net-zero target at all and just 23 have a scientifically approved plan, according to ESG investment research and asset manager Arabesque.
+
+Britain wants to reduce greenhouse gas emissions from the economy to net-zero by 2050 while Prime Minister Boris Johnson has expressed enthusiasm for leading a green revolution to force Western economies to kick their addiction to fossil fuels.
+
+Arabesque research found that 45 companies on the FTSE-100 Index had no net zero target. Just 23 companies had set net zero targets meeting the standards of the Science Based Targets Initiative (SBTi), which defines best practice in such targets.
+
+The research found that 28 FTSE companies are on course to contribute to a global temperature rise of 2.7 degrees Celsius or above by 2050. Scientists believe such a rise would lead to a worst-case climate scenario.
+
+The results of the research are a potential embarrassment for the British government just days before it hosts a major climate summit, known as COP26, in Glasgow, Scotland.
+
+""These findings show a wide gulf between where the FTSE 100 stands today, and where it needs to be to deliver on the UK’s net zero target,"" Daniel Klier, president of Arabesque, said.
+
+""Most of the UK’s biggest firms are not on a path to reach net zero by 2050 and we will need to see a significant change in business models and capital allocation.""
+
+Among the best performing 20 British FTSE-100 companies on climate were AstraZeneca (AZN.L), British American Tobacco (BATS.L), Burberry (BRBY.L), Rolls-Royce (RR.L) and Unilever (ULVR.L), Arabesque said. The worst performing companies, according to Arabesque, were miners and energy companies.
+
+Klier said Britain’s top firms were performing worse on climate than comparative companies in the United States, Japan, Germany and France.
+
+""The performance of our biggest businesses will be one of our greatest challenges to achieving net zero, but also, where one of our biggest opportunities to reduce emissions will lie,"" Klier said.
+
+""The time for commitments is now passing, however, and 2022 must be a year of action.""
+
+Reporting by Guy Faulconbridge; Editing by Kate Holton
+
+Our Standards: The Thomson Reuters Trust Principles.",negative,0.01,0.26,0.73,mixed,0.27,0.11,0.62,True,English,"['Reuters', 'REUTERS', 'Reuters', 'ESG', 'Arabesque', 'British government', 'Arabesque', 'AstraZeneca', 'AZN', 'British American Tobacco', 'BATS', 'Burberry', 'BRBY', 'Rolls-Royce', 'Unilever', 'ULVR', 'Thomson Reuters']",2021-10-20,reuters.com,"['Nearly half', 'FTSE 100 companies', 'net-zero target', 'Arabesque', 'Reuters', 'Nearly half', 'FTSE 100 companies', 'net-zero target', 'Arabesque', 'Reuters', 'Nearly half', 'FTSE 100 companies', 'net-zero target', 'Arabesque', 'Reuters', 'The Canary Wharf financial district', 'The Thomson Reuters Trust Principles', 'Prime Minister Boris Johnson', 'Science Based Targets Initiative', 'British American Tobacco', 'Suzanne Plunkett/File Photo', 'greenhouse gas emissions', 'global temperature rise', 'worst-case climate scenario', 'major climate summit', 'worst performing companies', 'ESG investment research', 'net zero target', '20 British FTSE-100 companies', 'net-zero target', 'British government', 'FTSE-100 Index', '100 biggest companies', 'asset manager', 'green revolution', 'Western economies', 'fossil fuels', 'best practice', '2.7 degrees Celsius', 'potential embarrassment', 'wide gulf', 'biggest firms', 'significant change', 'business models', 'capital allocation', 'energy companies', 'top firms', 'comparative companies', 'United States', 'biggest businesses', 'greatest challenges', 'biggest opportunities', 'Guy Faulconbridge', 'Kate Holton', 'FTSE Index', '28 FTSE companies', 'east London', 'Daniel Klier', 'Arabesque research', '45 companies', '23 companies', 'FTSE 100', 'half', 'Britain', 'plan', 'economy', 'enthusiasm', 'addiction', 'standards', 'SBTi', 'course', 'Scientists', 'results', 'COP26', 'Glasgow', 'Scotland', 'findings', 'UK', 'president', 'path', 'AstraZeneca', 'AZN', 'BATS', 'Burberry', 'BRBY', 'Rolls-Royce', 'RR.', 'Unilever', 'ULVR', 'miners', 'Japan', 'Germany', 'France', 'performance', 'time', 'commitments', 'year', 'action', 'Reporting', 'Editing']"
+ESG,PyNews API,https://www.reuters.com/article/climate-change-britain-ftse100-idUSKBN2HA0E0,"Nearly half of FTSE 100 companies have no net-zero target, Arabesque says - Reuters.com","REUTERS/Suzanne Plunkett/File Photo/File PhotoLONDON, Oct 20 (Reuters) - Nearly half of the 100 biggest companies listed on Britain's FTSE Index have no net-zero target at all and just 23 have a scientifically approved plan, according to ESG investment research and asset manager Arabesque.
+Arabesque research found that 45 companies on the FTSE-100 Index had no net zero target.
+The research found that 28 FTSE companies are on course to contribute to a global temperature rise of 2.7 degrees Celsius or above by 2050.
+""These findings show a wide gulf between where the FTSE 100 stands today, and where it needs to be to deliver on the UK’s net zero target,"" Daniel Klier, president of Arabesque, said.
+The worst performing companies, according to Arabesque, were miners and energy companies.","The Canary Wharf financial district is seen in east London November 12, 2014. REUTERS/Suzanne Plunkett/File Photo/File Photo
+
+LONDON, Oct 20 (Reuters) - Nearly half of the 100 biggest companies listed on Britain's FTSE Index have no net-zero target at all and just 23 have a scientifically approved plan, according to ESG investment research and asset manager Arabesque.
+
+Britain wants to reduce greenhouse gas emissions from the economy to net-zero by 2050 while Prime Minister Boris Johnson has expressed enthusiasm for leading a green revolution to force Western economies to kick their addiction to fossil fuels.
+
+Arabesque research found that 45 companies on the FTSE-100 Index had no net zero target. Just 23 companies had set net zero targets meeting the standards of the Science Based Targets Initiative (SBTi), which defines best practice in such targets.
+
+The research found that 28 FTSE companies are on course to contribute to a global temperature rise of 2.7 degrees Celsius or above by 2050. Scientists believe such a rise would lead to a worst-case climate scenario.
+
+The results of the research are a potential embarrassment for the British government just days before it hosts a major climate summit, known as COP26, in Glasgow, Scotland.
+
+""These findings show a wide gulf between where the FTSE 100 stands today, and where it needs to be to deliver on the UK’s net zero target,"" Daniel Klier, president of Arabesque, said.
+
+""Most of the UK’s biggest firms are not on a path to reach net zero by 2050 and we will need to see a significant change in business models and capital allocation.""
+
+Among the best performing 20 British FTSE-100 companies on climate were AstraZeneca (AZN.L), British American Tobacco (BATS.L), Burberry (BRBY.L), Rolls-Royce (RR.L) and Unilever (ULVR.L), Arabesque said. The worst performing companies, according to Arabesque, were miners and energy companies.
+
+Klier said Britain’s top firms were performing worse on climate than comparative companies in the United States, Japan, Germany and France.
+
+""The performance of our biggest businesses will be one of our greatest challenges to achieving net zero, but also, where one of our biggest opportunities to reduce emissions will lie,"" Klier said.
+
+""The time for commitments is now passing, however, and 2022 must be a year of action.""
+
+Reporting by Guy Faulconbridge; Editing by Kate Holton
+
+Our Standards: The Thomson Reuters Trust Principles.",negative,0.01,0.39,0.6,mixed,0.27,0.11,0.62,True,English,"['Reuters.com', 'REUTERS', 'Reuters', 'ESG', 'Arabesque', 'British government', 'Arabesque', 'AstraZeneca', 'AZN', 'British American Tobacco', 'BATS', 'Burberry', 'BRBY', 'Rolls-Royce', 'Unilever', 'ULVR', 'Thomson Reuters']",2021-10-20,reuters.com,"['Nearly half', 'FTSE 100 companies', 'net-zero target', 'Arabesque', 'Reuters', 'Nearly half', 'FTSE 100 companies', 'net-zero target', 'Arabesque', 'Reuters', 'Nearly half', 'FTSE 100 companies', 'net-zero target', 'Arabesque', 'Reuters', 'The Canary Wharf financial district', 'The Thomson Reuters Trust Principles', 'Prime Minister Boris Johnson', 'Science Based Targets Initiative', 'British American Tobacco', 'Suzanne Plunkett/File Photo', 'greenhouse gas emissions', 'global temperature rise', 'worst-case climate scenario', 'major climate summit', 'worst performing companies', 'ESG investment research', 'net zero target', '20 British FTSE-100 companies', 'net-zero target', 'British government', 'FTSE-100 Index', '100 biggest companies', 'asset manager', 'green revolution', 'Western economies', 'fossil fuels', 'best practice', '2.7 degrees Celsius', 'potential embarrassment', 'wide gulf', 'biggest firms', 'significant change', 'business models', 'capital allocation', 'energy companies', 'top firms', 'comparative companies', 'United States', 'biggest businesses', 'greatest challenges', 'biggest opportunities', 'Guy Faulconbridge', 'Kate Holton', 'FTSE Index', '28 FTSE companies', 'east London', 'Daniel Klier', 'Arabesque research', '45 companies', '23 companies', 'FTSE 100', 'half', 'Britain', 'plan', 'economy', 'enthusiasm', 'addiction', 'standards', 'SBTi', 'course', 'Scientists', 'results', 'COP26', 'Glasgow', 'Scotland', 'findings', 'UK', 'president', 'path', 'AstraZeneca', 'AZN', 'BATS', 'Burberry', 'BRBY', 'Rolls-Royce', 'RR.', 'Unilever', 'ULVR', 'miners', 'Japan', 'Germany', 'France', 'performance', 'time', 'commitments', 'year', 'action', 'Reporting', 'Editing']"
+ESG,PyNews API,https://www.reuters.com/article/blackstone-moves-esg-idUSKBN2GX1M7,Blackstone names new ESG global head for private-equity portfolio - Reuters.com,"REUTERS/Brendan McDermid/File PhotoOct 7 (Reuters) - Blackstone Inc (BX.N) on Thursday named Amisha Parekh as global head of environmental, social and governance (ESG) practices for its private-equity portfolio, in a bid to deepen its focus on sustainability through its investments.
+Late last month, a group of global private-equity and pension funds managing over $4 trillion in assets formed a partnership to standardize reporting on ESG performance of portfolio companies.
+The group, led by Carlyle Group (CG.O) and the California Public Employees' Retirement System (CalPERS), will track data on greenhouse gas emissions, renewable energy, board diversity and other metrics of companies in their portfolio.
+Parekh, who will be designated as a managing director within the firm's portfolio operations group, will lead ESG diligence, policy development and strategy.
+Parekh had most recently led ESG data acquisition and curation at Bloomberg and prior to that was a senior manager at Deloitte, where her responsibilities included helping consumer goods, retail and manufacturing clients develop sustainability strategies.","The ticker and trading information for Blackstone Group is displayed at the post where it is traded on the floor of the New York Stock Exchange (NYSE) April 4, 2016. REUTERS/Brendan McDermid/File Photo
+
+Oct 7 (Reuters) - Blackstone Inc (BX.N) on Thursday named Amisha Parekh as global head of environmental, social and governance (ESG) practices for its private-equity portfolio, in a bid to deepen its focus on sustainability through its investments.
+
+Parekh's appointment comes at a time when global organizations, investors and regulators are asking for more inclusive and sustainable ways to conduct business, while holding companies accountable for the same amid rising concerns over climate change and a push for diversity at the workplace.
+
+Late last month, a group of global private-equity and pension funds managing over $4 trillion in assets formed a partnership to standardize reporting on ESG performance of portfolio companies.
+
+The group, led by Carlyle Group (CG.O) and the California Public Employees' Retirement System (CalPERS), will track data on greenhouse gas emissions, renewable energy, board diversity and other metrics of companies in their portfolio.
+
+Parekh, who will be designated as a managing director within the firm's portfolio operations group, will lead ESG diligence, policy development and strategy.
+
+Parekh had most recently led ESG data acquisition and curation at Bloomberg and prior to that was a senior manager at Deloitte, where her responsibilities included helping consumer goods, retail and manufacturing clients develop sustainability strategies.
+
+Reporting by Sohini Podder in Bengaluru; Editing by Anil D'Silva
+
+Our Standards: The Thomson Reuters Trust Principles.",neutral,0.0,1.0,0.0,positive,0.49,0.46,0.05,True,English,"['Blackstone', 'Reuters', 'Reuters.com', 'Blackstone Group', 'New York Stock Exchange', 'NYSE', 'REUTERS', 'Reuters', 'Blackstone Inc', 'Carlyle Group', 'O', ""California Public Employees' Retirement System"", 'CalPERS', 'ESG', 'ESG', 'Bloomberg', 'Deloitte', 'Thomson Reuters']",2021-10-07,reuters.com,"['new ESG global head', 'private-equity portfolio', 'Blackstone', 'Reuters', 'new ESG global head', 'private-equity portfolio', 'Blackstone', 'Reuters', 'new ESG global head', 'private-equity portfolio', 'Blackstone', 'Reuters', ""California Public Employees' Retirement System"", 'The Thomson Reuters Trust Principles', 'New York Stock Exchange', 'Brendan McDermid/File Photo', 'greenhouse gas emissions', ""Anil D'Silva"", 'ESG data acquisition', 'portfolio operations group', 'ESG) practices', 'ESG performance', 'ESG diligence', 'trading information', 'Blackstone Inc', 'global head', 'private-equity portfolio', 'global organizations', 'sustainable ways', 'rising concerns', 'climate change', 'global private-equity', 'pension funds', 'CG.O', 'renewable energy', 'other metrics', 'managing director', 'policy development', 'senior manager', 'consumer goods', 'manufacturing clients', 'Sohini Podder', 'Blackstone Group', 'Carlyle Group', 'board diversity', 'sustainability strategies', 'portfolio companies', 'Amisha Parekh', 'ticker', 'post', 'floor', 'NYSE', 'BX.', 'Thursday', 'social', 'governance', 'bid', 'focus', 'investments', 'appointment', 'time', 'investors', 'regulators', 'inclusive', 'business', 'push', 'workplace', 'assets', 'partnership', 'reporting', 'CalPERS', 'firm', 'strategy', 'curation', 'Bloomberg', 'Deloitte', 'responsibilities', 'retail', 'Bengaluru', 'Editing', 'Standards']"
+ESG,PyNews API,https://www.reuters.com/business/sustainable-business/fragility-esg-scores-increase-greenwashing-risk-bank-italy-governor-2021-09-30/,Fragility of ESG scores increase 'greenwashing' risk - Bank of Italy governor - Reuters,"European Central Bank Governing Council member Ignazio Visco looks on during an interview with Reuters, in Rome, Italy, May 31, 2021.
+REUTERS/Guglielmo Mangiapane/File PhotoROME, Sept 30 (Reuters) - ""Bold and urgent"" international coordination is needed to make data companies provide on environmental, social and governance (ESG) indicators more robust and prevent greenwashing, the head of Italy's central bank said on Thursday.
+Visco said ""bold and urgent"" coordination was needed at the international level to deliver better data to measure the impact of climate change on the economy and the financial system.
+The volume of money flowing into funds on the basis of companies' ESG scores has risen sharply, but regulators worry about the lack of reliability and comparability of the data.
+""Sustainable finance has grown remarkably in just a few years, to the point that one could wonder whether this growth is itself sustainable,"" Visco added.","European Central Bank Governing Council member Ignazio Visco looks on during an interview with Reuters, in Rome, Italy, May 31, 2021. REUTERS/Guglielmo Mangiapane/File Photo
+
+ROME, Sept 30 (Reuters) - ""Bold and urgent"" international coordination is needed to make data companies provide on environmental, social and governance (ESG) indicators more robust and prevent greenwashing, the head of Italy's central bank said on Thursday.
+
+A lack of regulation to strengthen ESG indicators has prompted concerns among investors and environmentalists that companies might get better ESG ratings than they deserve because of data that makes them appear more sustainable than they really are.
+
+""The fact that there is no obligation to oversee firms' non-financial communications, the absence of standardised indicators... leave room for firms to attempt to alter the external perception of their sustainability in order to attract funds,"" Ignazio Visco said at a conference.
+
+Visco said ""bold and urgent"" coordination was needed at the international level to deliver better data to measure the impact of climate change on the economy and the financial system.
+
+The volume of money flowing into funds on the basis of companies' ESG scores has risen sharply, but regulators worry about the lack of reliability and comparability of the data.
+
+""Sustainable finance has grown remarkably in just a few years, to the point that one could wonder whether this growth is itself sustainable,"" Visco added.
+
+Reporting by Stefano Bernabei, writing by Giulia Segreti, editing by Barbara Lewis
+
+Our Standards: The Thomson Reuters Trust Principles.",negative,0.0,0.02,0.98,mixed,0.39,0.13,0.48,True,English,"['ESG', 'Bank of Italy', 'Reuters', 'European Central Bank', 'Reuters', 'REUTERS', 'Reuters', 'central bank', 'ESG', 'Thomson Reuters']",2021-09-30,reuters.com,"['ESG scores', ""greenwashing' risk"", 'Italy governor', 'Fragility', 'Bank', 'Reuters', 'ESG scores', ""greenwashing' risk"", 'Italy governor', 'Fragility', 'Bank', 'Reuters', 'ESG scores', ""greenwashing' risk"", 'Italy governor', 'Fragility', 'Bank', 'Reuters', 'European Central Bank Governing Council member', 'The Thomson Reuters Trust Principles', ""firms' non-financial communications"", 'urgent"" international coordination', ""companies' ESG scores"", 'urgent"" coordination', 'international level', 'ESG) indicators', 'ESG indicators', 'ESG ratings', 'Guglielmo Mangiapane', 'File Photo', 'standardised indicators', 'external perception', 'climate change', 'financial system', 'Sustainable finance', 'Stefano Bernabei', 'Giulia Segreti', 'Barbara Lewis', 'Ignazio Visco', 'data companies', 'interview', 'Rome', 'Italy', 'Bold', 'social', 'governance', 'greenwashing', 'head', 'Thursday', 'lack', 'regulation', 'concerns', 'investors', 'environmentalists', 'fact', 'obligation', 'absence', 'room', 'sustainability', 'order', 'funds', 'conference', 'impact', 'economy', 'volume', 'money', 'basis', 'regulators', 'reliability', 'comparability', 'years', 'point', 'growth', 'Reporting', 'Standards']"
+ESG,Bing API,https://www.barrons.com/articles/it-isnt-easy-being-green-heres-another-reason-investors-should-look-beyond-esg-label-51635192792,It Isn’t Easy Being Green. Here’s Another Reason Investors Should Look Beyond ESG Label.,"Roughly 61% of advisors in a recent survey by Federated Hermes, an asset manager focused on socially responsible investing, said they were including environmental, social or governance—ESG—considerations in their clients’ portfolios. That is up from ...","Roughly 61% of advisors in a recent survey by Federated Hermes, an asset manager focused on socially responsible investing, said they were including environmental, social or governance—ESG—considerations in their clients’ portfolios. That is up from ...",negative,0.0,0.0,1.0,neutral,0.02,0.92,0.06,True,English,['Federated Hermes'],2021-10-26,barrons.com,"['ESG Label', 'Reason', 'Investors', 'ESG Label', 'Reason', 'Investors', 'ESG Label', 'Reason', 'Investors', 'recent survey', 'Federated Hermes', 'asset manager', 'responsible investing', 'ESG—considerations', 'advisors', 'social', 'governance', 'clients', 'portfolios']"
+ESG,Bing API,https://www.greenbiz.com/article/how-esg-changing-talent-needs,How ESG is changing talent needs,"But by the early 2000s, CSR sounded quaint and too narrowly focused on social issues, so people started using the catch-all term ""sustainability.""
+Sustainability could mean environmental sustainability, social and environmental sustainability or even more broadly, futureproofing for tomorrow.
+It’s this kind of investor demand that’s driving ESG, injecting more money into the space and putting ESG squarely on the agenda of mainstream business.
+Demand for talent outpacing supplyMore recently, a spate of publications, including the Financial Times, has highlighted the ESG hiring frenzy.
+Watching the demand for ESG talent, I have noticed a change: The current pool of qualified candidates is significantly smaller than the demand.","But by the early 2000s, CSR sounded quaint and too narrowly focused on social issues, so people started using the catch-all term ""sustainability.""
+Sustainability could mean environmental sustainability, social and environmental sustainability or even more broadly, futureproofing for tomorrow.
+It’s this kind of investor demand that’s driving ESG, injecting more money into the space and putting ESG squarely on the agenda of mainstream business.
+Demand for talent outpacing supplyMore recently, a spate of publications, including the Financial Times, has highlighted the ESG hiring frenzy.
+Watching the demand for ESG talent, I have noticed a change: The current pool of qualified candidates is significantly smaller than the demand.",positive,0.89,0.08,0.03,mixed,0.36,0.24,0.4,True,English,"['ESG', 'CSR', 'ESG', 'ESG', 'Financial Times', 'ESG', 'ESG']",2021-10-26,greenbiz.com,"['talent needs', 'ESG', 'talent needs', 'ESG', 'talent needs', 'ESG', 'ESG hiring frenzy', 'early 2000s', 'mainstream business', 'Financial Times', 'current pool', 'qualified candidates', 'social issues', 'environmental sustainability', 'investor demand', 'ESG talent', 'CSR', 'people', 'term', 'futureproofing', 'tomorrow', 'kind', 'money', 'space', 'agenda', 'supplyMore', 'spate', 'publications', 'change']"
+ESG,Bing API,https://economictimes.indiatimes.com/markets/ipos/fpos/snapdeal-appoints-two-independent-directors-ahead-of-its-proposed-rs-3000-crore-ipo/articleshow/87275118.cms,"Snapdeal appoints two independent directors ahead of its proposed Rs 3,000 crore IPO","MUMBAI: SoftBank-backed Snapdeal has strengthened the company's board ahead of its Rs 3,000 crore initial public offering (IPO) by appointing two ESG-focussed independent directors Kaushik Dutta and Richa Arora.
+The company is considering filing its draft red herring prospectus in the next few months, joining a growing list of start-ups preparing to tap capital markets as the nation’s digital economy booms.Kaushik Dutta is the chairman of Zomato and is on Policy Bazaar and HCL Infosystems boards, while Richa Arora is the MD and CEO for ESG Stewardship Services at ECube Investment Advisors and has also been on the board of Tata Group's e-commerce venture.Snapdeal, which operates India's leading value e-commerce platform, counts BlackRock, Temasek, Foxconn, Premji Invest, Intel Capital, Bessemer Venture Partners, and Ratan Tata.Snapdeal is a value e-commerce platform that has helped Indian e-commerce grow beyond just brands and urban users.
+Nearly 80 per cent of Snapdeal's users come from non-metro locations highlighting its deep reach across the length and breadth of the country.The e-commerce platform hosts a wide selection of good quality, value-priced merchandise across fashion, home, beauty & personal care, general merchandise, and other categories.","MUMBAI: SoftBank-backed Snapdeal has strengthened the company's board ahead of its Rs 3,000 crore initial public offering (IPO) by appointing two ESG-focussed independent directors Kaushik Dutta and Richa Arora.
+The company is considering filing its draft red herring prospectus in the next few months, joining a growing list of start-ups preparing to tap capital markets as the nation’s digital economy booms.Kaushik Dutta is the chairman of Zomato and is on Policy Bazaar and HCL Infosystems boards, while Richa Arora is the MD and CEO for ESG Stewardship Services at ECube Investment Advisors and has also been on the board of Tata Group's e-commerce venture.Snapdeal, which operates India's leading value e-commerce platform, counts BlackRock, Temasek, Foxconn, Premji Invest, Intel Capital, Bessemer Venture Partners, and Ratan Tata.Snapdeal is a value e-commerce platform that has helped Indian e-commerce grow beyond just brands and urban users.
+Nearly 80 per cent of Snapdeal's users come from non-metro locations highlighting its deep reach across the length and breadth of the country.The e-commerce platform hosts a wide selection of good quality, value-priced merchandise across fashion, home, beauty & personal care, general merchandise, and other categories.",neutral,0.0,0.99,0.01,positive,0.67,0.33,0.0,True,English,"['Snapdeal', 'SoftBank', 'Snapdeal', 'ESG', 'Zomato', 'Policy Bazaar', 'HCL Infosystems', 'ESG Stewardship Services', 'ECube Investment Advisors', 'Tata Group', 'Snapdeal', 'BlackRock', 'Temasek', 'Foxconn', 'Premji Invest', 'Intel Capital', 'Bessemer Venture Partners', 'Ratan Tata', 'Snapdeal', 'Snapdeal']",2021-10-26,economictimes.indiatimes.com,"['two independent directors', 'Rs 3,000 crore IPO', 'Snapdeal', 'two independent directors', 'Rs 3,000 crore IPO', 'Snapdeal', 'two independent directors', 'Rs 3,000 crore IPO', 'Snapdeal', 'Rs 3,000 crore initial public offering', 'two ESG-focussed independent directors', 'draft red herring prospectus', 'good quality, value-priced merchandise', 'leading value e-commerce platform', 'digital economy booms', 'HCL Infosystems boards', 'ESG Stewardship Services', 'ECube Investment Advisors', 'Bessemer Venture Partners', 'e-commerce venture', 'general merchandise', 'Indian e-commerce', 'Kaushik Dutta', 'Richa Arora', 'growing list', 'capital markets', 'Policy Bazaar', 'Tata Group', 'Premji Invest', 'Intel Capital', 'Ratan Tata', '80 per cent', 'metro locations', 'deep reach', 'wide selection', 'personal care', 'other categories', 'urban users', 'SoftBank-backed Snapdeal', 'MUMBAI', 'company', 'IPO', 'next', 'months', 'start-ups', 'nation', 'chairman', 'Zomato', 'MD', 'CEO', 'BlackRock', 'Temasek', 'Foxconn', 'brands', 'length', 'breadth', 'country', 'fashion', 'home', 'beauty']"
+ESG,Bing API,https://www.finanztreff.de/news/polymetal-correction-q3-2021-production-results+4-/26558090,Polymetal: CORRECTION Q3 2021 production results -4-,"| Text vorlesen Stop Pause Fortsetzen10:2410:0012:0003:2507:2503:2507:2503:2507:2503:2507:25DJ Polymetal: CORRECTION Q3 2021 production resultsPolymetal International plc (POLY) Polymetal: CORRECTION Q3 2021 production results 26-Oct-2021 /MSK Dissemination of a Regulatory Announcement, transmitted by EQS Group.
+The issuer is solely responsible for the content of this announcement.Release time IMMEDIATE LSE, MOEX, AIX: POLY / ADR: AUCOYDate 26 October 2021 Polymetal International plc CORRECTION: Q3 2021 production resultsPLEASE SEE BELOW THE CORRECTED PRESS-RELEASE.
+Polymetal is now ranked by Sustainalytics within top 3 precious metals companiesglobally.The Company is on track to meet its full-year 2021 production guidance of 1,500 GE Koz.
+(5) LTIFR = lost time injury frequency rate per 200,000 hours worked.PRODUCTION BY MINE3 months ended Sep 30, % 9 months ended Sep %30,change change2021 2020 2021 2020GOLD EQ.
+ALBAZINO3 months ended Sep 30, 9 months ended Sep% change 30, % change2021 2020 2021 2020MININGWaste mined, Mt 5.7 5.2 +8% 16.3 15.1 +8%incl.","| Text vorlesen Stop Pause Fortsetzen10:2410:0012:0003:2507:2503:2507:2503:2507:2503:2507:25DJ Polymetal: CORRECTION Q3 2021 production resultsPolymetal International plc (POLY) Polymetal: CORRECTION Q3 2021 production results 26-Oct-2021 /MSK Dissemination of a Regulatory Announcement, transmitted by EQS Group.
+The issuer is solely responsible for the content of this announcement.Release time IMMEDIATE LSE, MOEX, AIX: POLY / ADR: AUCOYDate 26 October 2021 Polymetal International plc CORRECTION: Q3 2021 production resultsPLEASE SEE BELOW THE CORRECTED PRESS-RELEASE.
+Polymetal is now ranked by Sustainalytics within top 3 precious metals companiesglobally.The Company is on track to meet its full-year 2021 production guidance of 1,500 GE Koz.
+(5) LTIFR = lost time injury frequency rate per 200,000 hours worked.PRODUCTION BY MINE3 months ended Sep 30, % 9 months ended Sep %30,change change2021 2020 2021 2020GOLD EQ.
+ALBAZINO3 months ended Sep 30, 9 months ended Sep% change 30, % change2021 2020 2021 2020MININGWaste mined, Mt 5.7 5.2 +8% 16.3 15.1 +8%incl.",neutral,0.0,1.0,0.0,negative,0.0,0.08,0.92,True,English,"['resultsPolymetal International plc (POLY)', 'EQS Group', 'Polymetal International plc', 'Polymetal', 'Sustainalytics']",2021-10-26,finanztreff.de,"['CORRECTION Q3 2021 production results', 'Polymetal', 'CORRECTION Q3 2021 production results', 'Polymetal', 'CORRECTION Q3 2021 production results', 'Polymetal', 'CORRECTION Q3 2021 production resultsPolymetal International plc', 'Polymetal International plc CORRECTION', 'top 3 precious metals companiesglobally', 'time injury frequency rate', 'Q3 2021 production resultsPLEASE', 'full-year 2021 production guidance', 'Release time', '25DJ Polymetal', 'Pause Fortsetzen10', 'MSK Dissemination', 'EQS Group', 'IMMEDIATE LSE', 'CORRECTED PRESS-RELEASE', 'The Company', '1,500 GE Koz', '2020GOLD EQ.', 'POLY) Polymetal', 'MINE3 months', 'ALBAZINO3 months', 'Regulatory Announcement', 'Sep% change', '9 months', 'Text', 'issuer', 'content', 'MOEX', 'AIX', 'ADR', 'AUCOYDate', 'October', 'Sustainalytics', 'track', '200,000 hours', 'change2021', '2020MININGWaste', 'Mt', '30']"
+ESG,Twitter API,Twitter,via @greenbiz How ESG is changing talent needs https://t.co/WoKJT4LuTV,,via @greenbiz How ESG is changing talent needs https://t.co/WoKJT4LuTV,positive,0.88,0.1,0.02,positive,0.88,0.1,0.02,True,English,"['ESG', 'ESG']",2021-10-26,Twitter,"['talent needs', 'ESG', 'WoKJT4LuTV', 'talent needs', 'ESG', 'WoKJT4LuTV', 'talent needs', 'ESG', 'WoKJT4LuTV', 'talent needs', 'ESG', 'WoKJT4LuTV']"
+ESG,Twitter API,Twitter,"This news reminds me of the article I read about distressed companies rebranding with ESG policies for goodwill, an… https://t.co/00KPRSZh6Z",,"This news reminds me of the article I read about distressed companies rebranding with ESG policies for goodwill, an… https://t.co/00KPRSZh6Z",negative,0.08,0.04,0.88,negative,0.08,0.04,0.88,True,English,[],2021-10-26,Twitter,"['distressed companies', 'ESG policies', 'news', 'article', 'goodwill', '00KPRSZh6Z', 'distressed companies', 'ESG policies', 'news', 'article', 'goodwill', '00KPRSZh6Z', 'distressed companies', 'ESG policies', 'news', 'article', 'goodwill', '00KPRSZh6Z', 'distressed companies', 'ESG policies', 'news', 'article', 'goodwill', '00KPRSZh6Z']"
+ESG,Twitter API,Twitter,"Environmental, Social and Governance (ESG) is not just a trend but becoming a ""license to operate"", says Iyad A. Al… https://t.co/PEy6X5CUY8",,"Environmental, Social and Governance (ESG) is not just a trend but becoming a ""license to operate"", says Iyad A. Al… https://t.co/PEy6X5CUY8",neutral,0.12,0.71,0.17,neutral,0.12,0.71,0.17,True,English,[],2021-10-26,Twitter,"['Iyad A. Al', 'Social', 'Governance', 'ESG', 'trend', 'license', 'PEy6X5CUY8', 'Iyad A. Al', 'Social', 'Governance', 'ESG', 'trend', 'license', 'PEy6X5CUY8', 'Iyad A. Al', 'Social', 'Governance', 'ESG', 'trend', 'license', 'PEy6X5CUY8', 'Iyad A. Al', 'Social', 'Governance', 'ESG', 'trend', 'license', 'PEy6X5CUY8']"
+ESG,Twitter API,Twitter,"Why Investors Should Look Beyond ESG Label  🍀
+
+https://t.co/0rmpgOMFcm",,"Why Investors Should Look Beyond ESG Label  🍀
+
+https://t.co/0rmpgOMFcm",neutral,0.01,0.93,0.06,neutral,0.01,0.93,0.06,True,English,[],2021-10-26,Twitter,"['ESG Label', 'Investors', '0rmpgOMFcm', 'ESG Label', 'Investors', '0rmpgOMFcm', 'ESG Label', 'Investors', '0rmpgOMFcm', 'ESG Label', 'Investors', '0rmpgOMFcm']"
+ESG,Twitter API,Twitter,Why Investors Should Look Beyond ESG Label $BAC https://t.co/Xnvy8HlWTG,,Why Investors Should Look Beyond ESG Label $BAC https://t.co/Xnvy8HlWTG,neutral,0.01,0.93,0.06,neutral,0.01,0.93,0.06,True,English,[],2021-10-26,Twitter,"['ESG Label', 'Investors', 'BAC', 'Xnvy8HlWTG', 'ESG Label', 'Investors', 'BAC', 'Xnvy8HlWTG', 'ESG Label', 'Investors', 'BAC', 'Xnvy8HlWTG', 'ESG Label', 'Investors', 'BAC', 'Xnvy8HlWTG']"
+ESG,Twitter API,Twitter,"The Largest Oil 🛢 and Gas Companies in the World 🌎 
+@mvollmer1
+#Oil #energy #Sustainability #ESG #renewableenergy… https://t.co/2lcba5LUQO",,"The Largest Oil 🛢 and Gas Companies in the World 🌎 
+@mvollmer1
+#Oil #energy #Sustainability #ESG #renewableenergy… https://t.co/2lcba5LUQO",neutral,0.12,0.87,0.01,neutral,0.12,0.87,0.01,True,English,[],2021-10-26,Twitter,"['The Largest Oil', 'Gas Companies', 'World', 'mvollmer1', 'energy', 'Sustainability', 'ESG', 'lcba5LUQO', 'The Largest Oil', 'Gas Companies', 'World', 'mvollmer1', 'energy', 'Sustainability', 'ESG', 'lcba5LUQO', 'The Largest Oil', 'Gas Companies', 'World', 'mvollmer1', 'energy', 'Sustainability', 'ESG', 'lcba5LUQO', 'The Largest Oil', 'Gas Companies', 'World', 'mvollmer1', 'energy', 'Sustainability', 'ESG', 'lcba5LUQO']"
+ESG,Twitter API,Twitter,The trade union movement has been at the forefront of pushing the ESG agenda. The post-covid world gives us an oppo… https://t.co/IeHI4I8q7T,,The trade union movement has been at the forefront of pushing the ESG agenda. The post-covid world gives us an oppo… https://t.co/IeHI4I8q7T,neutral,0.02,0.93,0.05,neutral,0.02,0.93,0.05,True,English,"['trade', 'trade']",2021-10-26,Twitter,"['trade union movement', 'ESG agenda', 'post-covid world', 'forefront', 'oppo', 'IeHI4I8q7T', 'trade union movement', 'ESG agenda', 'post-covid world', 'forefront', 'oppo', 'IeHI4I8q7T', 'trade union movement', 'ESG agenda', 'post-covid world', 'forefront', 'oppo', 'IeHI4I8q7T', 'trade union movement', 'ESG agenda', 'post-covid world', 'forefront', 'oppo', 'IeHI4I8q7T']"
+ESG,Twitter API,Twitter,Strengthening our commitment. Learn more about KPMG's multi-year program to accelerate and focus on the #ESG change… https://t.co/A6qvd8wSt1,,Strengthening our commitment. Learn more about KPMG's multi-year program to accelerate and focus on the #ESG change… https://t.co/A6qvd8wSt1,positive,0.96,0.03,0.01,positive,0.96,0.03,0.01,True,English,"['KPMG', 'KPMG']",2021-10-26,Twitter,"['multi-year program', 'commitment', 'KPMG', 'A6qvd8wSt1', 'multi-year program', 'commitment', 'KPMG', 'A6qvd8wSt1', 'multi-year program', 'commitment', 'KPMG', 'A6qvd8wSt1', 'multi-year program', 'commitment', 'KPMG', 'A6qvd8wSt1']"
+ESG,Twitter API,Twitter,ESG Gains Could Buy Better Terms in Insurance Program  https://t.co/SMMgxHCM7C #DNF #InsuranceNews,,ESG Gains Could Buy Better Terms in Insurance Program  https://t.co/SMMgxHCM7C #DNF #InsuranceNews,positive,0.97,0.01,0.02,positive,0.97,0.01,0.02,True,English,"['ESG', 'ESG']",2021-10-26,Twitter,"['ESG Gains', 'Better Terms', 'Insurance Program', 'SMMgxHCM7C', 'DNF', 'InsuranceNews', 'ESG Gains', 'Better Terms', 'Insurance Program', 'SMMgxHCM7C', 'DNF', 'InsuranceNews', 'ESG Gains', 'Better Terms', 'Insurance Program', 'SMMgxHCM7C', 'DNF', 'InsuranceNews', 'ESG Gains', 'Better Terms', 'Insurance Program', 'SMMgxHCM7C', 'DNF', 'InsuranceNews']"
